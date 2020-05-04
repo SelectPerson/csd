@@ -1,0 +1,17 @@
+﻿[en]
+HUDHINT = Your client is outdated!^nType /contra in chat to download the update
+CHATHINT = Type /contra in chat to download the update! 
+CONSOLE_MSG = Download the update here: http://electro-odessa.3dn.ru/update.rar
+KICKHINT = Your client is outdated! Install the update http://electro-odessa.3dn.ru/update.rar 
+
+[ru]
+HUDHINT = Версия твоей игры устарела!^nНапиши в чате /contra чтобы загрузить обновление
+CHATHINT = Напиши в чате /contra чтобы загрузить обновление!
+CONSOLE_MSG = CKa4au o6HoBJIeHue: http://electro-odessa.3dn.ru/update.rar
+KICKHINT = Версия твоей игры устарела! Установи обновление http://electro-odessa.3dn.ru/update.rar
+
+[ua]
+HUDHINT = Ти використовуєш стару версію гри!^nНапиши у чаті /contra щоб завантажити оновлення
+CHATHINT = Напиши у чаті /contra щоб завантажити оновлення!
+CONSOLE_MSG = 3aBaHTa}|{ oHoBJIeHH9: http://electro-odessa.3dn.ru/update.rar
+KICKHINT = Ти використовуєш стару версію гри! Встанови оновлення http://electro-odessa.3dn.ru/update.rar

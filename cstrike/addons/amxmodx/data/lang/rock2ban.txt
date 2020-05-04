@@ -1,0 +1,27 @@
+[en]
+VOTEBAN_NEED3 = !n This command is unavailable! Need at least 3 players.
+VOTEBAN_VOTED = voted
+VOTEBAN_VOTE = !n Player !t%s!n votebanned !t%s!n!
+VOTEBAN_UNVOTE = !n Player !t%s!n canceled voteban !t%s!n!
+VOTEBAN_BAN = !n Player !t%s!n has been banned for !g%d!n min. due to voteban!
+VOTEBAN_SET = * You have votebanned this player *
+VOTEBAN_CLEAR = * You have canceled voteban for this player *
+VOTEBAN_LIMIT = * Too much votebans, max. %d! *
+VOTEBAN_MENU = \rVOTEBAN \yMenu
+VOTEBAN_BACK = Back
+VOTEBAN_NEXT = Next
+VOTEBAN_EXIT = Exit
+
+[ru]
+VOTEBAN_NEED3 = !n Команда недоступна, потому что на сервере менее 3-х человек!
+VOTEBAN_VOTED = голос
+VOTEBAN_VOTE = !n Игрок !t%s!n проголосовал за бан !t%s!n!
+VOTEBAN_UNVOTE = !n Игрок !t%s!n отменил свой голос за бан !t%s!n!
+VOTEBAN_BAN = !n Игрок !t%s!n забанен /voteban'ом на !g%d!n мин.!
+VOTEBAN_SET = * Вы проголосовали за бан игрока *
+VOTEBAN_CLEAR = * Вы отменили голос за бан игрока *
+VOTEBAN_LIMIT = * Слишком много голосов, максимум %d! *
+VOTEBAN_MENU = \yМеню \rVOTEBAN'a
+VOTEBAN_BACK = Назад
+VOTEBAN_NEXT = Дальше
+VOTEBAN_EXIT = Выход

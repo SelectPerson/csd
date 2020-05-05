@@ -1,0 +1,173 @@
+L 05/05/2020 - 08:02:21: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 08:13:48: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 08:13:51: [admin.amxx] Login: "1234<1><STEAM_0:0:921993139><>" kicked due to invalid password (account "1234") (address "46.118.144.114")
+L 05/05/2020 - 08:13:55: [admin.amxx] Login: "1234<2><STEAM_0:0:921993139><>" kicked due to invalid password (account "1234") (address "46.118.144.114")
+L 05/05/2020 - 08:14:04: [admin.amxx] Login: "1234<3><STEAM_0:0:921993139><>" kicked due to invalid password (account "1234") (address "46.118.144.114")
+L 05/05/2020 - 08:14:09: [admin.amxx] Login: "1234<4><STEAM_0:0:921993139><>" kicked due to invalid password (account "1234") (address "46.118.144.114")
+L 05/05/2020 - 08:14:46: [admin.amxx] Login: "1234<5><STEAM_0:0:921993139><>" kicked due to invalid password (account "1234") (address "46.118.144.114")
+L 05/05/2020 - 08:14:49: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 08:20:47: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 08:20:50: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 08:20:58: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 08:21:25: [admin.amxx] Login: "Vova<3><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 08:22:41: [admin.amxx] Login: "Vova<4><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 08:22:46: [admin.amxx] Login: "Vova<5><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 08:22:49: [admin.amxx] Login: "Vova<6><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 08:22:58: [admin.amxx] Login: "Vova<7><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 08:23:05: [admin.amxx] Login: "Vova<8><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 08:26:30: [admin.amxx] Login: "Vova<10><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 08:26:41: [admin.amxx] Login: "Vova<11><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 08:28:52: [admin.amxx] Login: "Vova<12><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 08:29:36: [plmenu.amxx] Kick: "Vova<12><STEAM_0:0:921993139><>" kick "Vova<12><STEAM_0:0:921993139><>"
+L 05/05/2020 - 08:29:39: [admin.amxx] Login: "Vova<13><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 08:29:55: [admincmd.amxx] Kick: "Vova<13><STEAM_0:0:921993139><>" kick "Vova<13><STEAM_0:0:921993139><>" (reason "")
+L 05/05/2020 - 08:38:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/05/2020 - 08:39:03: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 05/05/2020 - 08:40:57: -------- Mapchange to de_airstrip --------
+L 05/05/2020 - 08:56:29: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 09:14:30: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/05/2020 - 09:14:45: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 05/05/2020 - 09:16:39: -------- Mapchange to de_airstrip --------
+L 05/05/2020 - 09:19:19: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 09:24:19: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 09:24:20: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zombie_plague.txt
+L 05/05/2020 - 09:24:59: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 09:24:59: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zombie_plague50.txt
+L 05/05/2020 - 09:25:43: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 09:26:28: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 09:44:28: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/05/2020 - 09:44:43: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 05/05/2020 - 09:46:38: -------- Mapchange to de_airstrip --------
+L 05/05/2020 - 10:42:03: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 10:42:35: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 10:44:01: [admincmd.amxx] Kick: "Vova<1><STEAM_0:0:921993139><>" kick "Vova<1><STEAM_0:0:921993139><>" (reason "1")
+L 05/05/2020 - 10:44:06: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 10:44:46: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 10:44:48: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:02:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/05/2020 - 11:03:02: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 05/05/2020 - 11:04:56: -------- Mapchange to de_airstrip --------
+L 05/05/2020 - 11:16:07: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:16:10: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:22:51: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:22:55: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:24:14: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:24:16: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:26:55: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:26:57: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:28:18: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:28:22: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:31:01: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:31:04: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:31:57: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:32:01: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:32:22: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:32:24: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:32:49: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:33:53: [admin.amxx] Login: "Vova<3><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:34:03: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:34:09: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:34:51: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:35:43: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 11:35:45: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 11:53:44: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/05/2020 - 11:53:59: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 05/05/2020 - 11:55:53: -------- Mapchange to de_airstrip --------
+L 05/05/2020 - 12:00:06: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 12:00:09: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 12:18:07: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/05/2020 - 12:18:22: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 05/05/2020 - 12:20:16: -------- Mapchange to de_airstrip --------
+L 05/05/2020 - 12:33:29: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 12:33:33: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 12:45:11: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 12:45:15: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 12:47:04: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 12:47:35: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 12:47:38: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 12:56:19: [admin.amxx] Login: "Vova<4><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:00:12: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:00:14: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:03:29: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:03:31: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:04:50: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:04:53: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:07:15: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:07:18: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:09:23: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:10:00: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:10:03: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:10:56: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:11:00: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:17:49: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:17:51: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:21:15: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:21:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 13:21:15: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 13:21:15: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 13:21:15: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 13:21:17: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:21:19: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 13:21:57: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 13:21:57: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 13:21:57: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 13:21:57: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 13:21:57: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 13:22:00: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:22:03: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 13:22:51: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:22:54: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 13:23:09: [admin.amxx] Login: "Vova<3><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:23:12: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 13:23:53: [admin.amxx] Login: "Vova<5><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:23:56: [admin.amxx] Login: "Vova<6><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:23:58: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 13:24:11: [zm_vip.amxx] WARNING: Missing vip.txt file in cstrike directory. It's used by /vip command to show information about privileges on server.
+L 05/05/2020 - 13:24:15: [zm_vip.amxx] WARNING: Missing vip.txt file in cstrike directory. It's used by /vip command to show information about privileges on server.
+L 05/05/2020 - 13:24:26: [admin.amxx] Login: "Vova<7><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:24:29: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 13:24:32: [admin.amxx] Login: "Vova<8><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 13:39:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/05/2020 - 13:40:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 05/05/2020 - 13:42:07: -------- Mapchange to de_airstrip --------
+L 05/05/2020 - 13:42:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 13:42:07: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 13:42:07: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 13:42:07: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 14:15:39: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 14:15:39: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 14:15:39: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 14:15:39: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 14:15:39: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 14:15:42: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 14:15:45: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 14:30:23: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 14:30:23: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 14:30:23: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 14:30:23: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 14:30:23: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 14:30:27: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 14:30:30: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 14:33:04: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 14:33:04: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 14:33:04: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 14:33:04: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 14:33:04: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 14:33:09: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 14:33:11: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 14:35:31: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 14:35:33: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 14:37:29: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 14:37:30: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 14:37:30: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 14:37:30: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 14:37:30: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 14:37:36: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 14:37:39: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 14:39:03: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 14:39:04: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 14:39:04: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 14:39:04: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 14:39:04: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 14:39:06: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 14:39:10: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].

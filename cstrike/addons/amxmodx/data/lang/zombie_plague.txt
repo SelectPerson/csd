@@ -1,0 +1,331 @@
+[en]
+NOTICE_INFO1 = Нажмите М для вызова меню
+NOTICE_INFO2 = Нажмите , или . для покупки патронов
+NOTICE_VIRUS_FREE = Т-вирус витает в воздухе...
+NOTICE_FIRST = %s первый зомби !!!
+NOTICE_INFECT = Мозги %s были съедены...
+NOTICE_INFECT2 = Мозги %s были съедены %sом(ой)...
+NOTICE_ANTIDOTE = %s использовал противоядие...
+NOTICE_NEMESIS = %s Дьявол !!!
+NOTICE_SURVIVOR = %s Выживший !!!
+NOTICE_SWARM = Куча на кучу !!!
+NOTICE_MULTI = Массовое Заражение !!!
+NOTICE_PLAGUE = Чума расползается !!!
+
+WIN_HUMAN = Люди победили заразу !
+WIN_ZOMBIE = Зомби захватили весь мир !
+WIN_NO_ONE = На этот раз ничья...
+
+CMD_INFECT = стал Зомби
+CMD_DISINFECT = превратился обратно в Человека
+CMD_NEMESIS = Дьявол !!!
+CMD_SURVIVAL = Выживший !!!
+CMD_SWARM = Куча на кучу!
+CMD_MULTI = Массовое Заражение!
+CMD_PLAGUE = Чума!
+CMD_RESPAWN = возродился
+CMD_NOT = Недопустимая команда.
+CMD_ZOMBIE_ONLY = Доступно только для Зомби.
+CMD_HUMAN_ONLY = Доступно только для Людей.
+CMD_NOT_STUCK = Вы не застряли.
+CMD_NOT_ACCESS = У вас нет доступа.
+CMD_NOT_CANTUSE = Это нельзя сейчас использовать.
+CMD_NOT_EXTRAS = Специальные вещи отключены.
+CMD_NOT_ZCLASSES = Классы Зомби отключены.
+
+MENU_BUY = Выбрать оружие
+MENU_EXTRABUY = Купить Спец-вещи
+MENU_ZCLASS = Класс Зомби...
+MENU_UNSTUCK = Застрял!
+MENU_ADMIN = Админ-меню
+MENU_INFO = Помощь
+MENU_SPECTATOR = В зрители
+BUY_ARMOR = КУПИТЬ БРОНЮ
+
+MENU_BUY1_TITLE = Главное оружие
+MENU_BUY2_TITLE = Доп. оружие
+MENU_ZCLASS_TITLE = Класс Зомби:
+MENU_EXTRA_TITLE = Спец-вещи
+MENU_ADMIN_TITLE = Админ-меню
+MENU_INFO_TITLE = Инфо о плагине
+
+MENU_EXTRA1 = Ночное видение
+MENU_EXTRA2 = Антидот
+MENU_EXTRA3 = Бешенство зомби
+MENU_EXTRA4 = Граната-вирус
+MENU_ADMIN1 = Сделать Зомби/Человеком
+MENU_ADMIN2 = Дьяволом
+MENU_ADMIN3 = Выжившим
+MENU_ADMIN4 = Возродить
+MENU_ADMIN5 = Куча на кучу
+MENU_ADMIN6 = Массовое Зар.
+MENU_ADMIN7 = Чума
+MENU_INFO1 = В общем
+MENU_INFO2 = Люди
+MENU_INFO3 = Зомби
+MENU_INFO4 = Варианты игры
+
+MENU_AUTOSELECT = Запомнить выбор
+MENU_BACK = Назад
+MENU_NEXT = Вперед
+MENU_EXIT = Выход
+
+MOTD_INFO11 = <meta charset=UTF-8><meta charset=UTF-8><body bgcolor=000000><font color=FF0505><b>%s %s by %s -</b> мод для Counter-Strike. Классический сценарий: случайный игрок становится зомби и должен заразить всех людей.
+MOTD_INFO12 = Но есть немного новшеств. Специальные вещи(за кредиты), классы зомби. Кредиты можно получить убивая зомби или заражая людей.<br><br><u>Настройки:</u><br>
+MOTD_INFO1_A = Эффекты:
+MOTD_INFO1_B = <br>Освещение: %s
+MOTD_INFO1_C = <br>Выключатели: %L
+MOTD_INFO1_D = <br>Молния: %d сек
+MOTD_INFO1_E = <br>Двери: %L
+MOTD_INFO1_F = <br>Десматч: %L
+MOTD_INFO1_G = <br>Нач. защита: %d сек
+MOTD_INFO1_H = <br>Случайное появление: %L
+MOTD_INFO1_I = <br>Спец-вещи: %L
+MOTD_INFO1_J = <br>Классы Зомби: %L
+MOTD_INFO1_K = <br>NightVision: %L
+MOTD_INFO1_L = <br>Фонарик: %L
+MOTD_INFO2 = <meta charset=UTF-8><body bgcolor=000000><font color=FF0505><b>Люди:</b> их главная задача - это убить всех зомби. В их распоряжении большой выбор оружия и специальных вещей. Коммандная игра необходима для выживания.<br><br><br><u>Текущие настройки сервера:</u><br>
+MOTD_INFO2_A = <br>Здоровье: %d
+MOTD_INFO2_B = <br>Добавляемое здоровье последнему: %d
+MOTD_INFO2_C = <br>Скорость: %d
+MOTD_INFO2_D = <br>Гравитация: %d
+MOTD_INFO2_E = <br>Боеприпасы: %L
+MOTD_INFO2_F = <br>Наносимый урон для получения кредита: %d
+MOTD_INFO2_G = <br>Огненный гранаты: %L
+MOTD_INFO2_H = <br>Замораживающие гранаты: %L
+MOTD_INFO2_I = <br>Осветительные гранаты: %L
+MOTD_INFO2_J = <br>Отскок при попадании: %L
+MOTD_INFO3 = <meta charset=UTF-8><body bgcolor=000000><font color=FF0505><b>Зомби:</b> их задача - заразить всех людей и убить поледнего. Они хорошо видят в темноте, но могут атаковать только своими когтями. Существует много классов зомби, каждый со своими характеристиками.<br><br><br><u>Настройк и:</u><br>
+MOTD_INFO3_A = <br>Здоровье: %d
+MOTD_INFO3_B = <br>Здоровье первого: %d
+MOTD_INFO3_C = <br>Повреждения: %d%%
+MOTD_INFO3_D = <br>Скорость: %d
+MOTD_INFO3_E = <br>Гравитация: %d
+MOTD_INFO3_F = <br>Здоровье, получаемое за заражение: %d
+MOTD_INFO3_G = <br>Замедление при попадании: %L
+MOTD_INFO3_H = <br>Кровотечение: %L
+MOTD_INFO3_I = <br>Кредиты за заражение: %d
+MOTD_INFO4 = <meta charset=UTF-8><body bgcolor=000000><font color=FF0505><b>Мини-игры:</b> есть 5 типов, которые создаются случайно на протяжении игры.<br><br><u>Настройки:</u><br><br>
+MOTD_INFO4_A = <u>Дьявол:</u> %L
+MOTD_INFO4_B = <br>Шанс: 1 из %d
+MOTD_INFO4_C = <br>Здоровье: %s
+MOTD_INFO4_D = <br>Скорость: %d
+MOTD_INFO4_E = <br>Гравитация: %d
+MOTD_INFO4_F = <br>Прыжок: %L
+MOTD_INFO4_G = <br>Замедление при попадании: %L
+MOTD_INFO4_H = <br><u>Выживший:</u> %L
+MOTD_INFO4_I = <br>Шанс: 1 из %d
+MOTD_INFO4_J = <br>Здоровье: %s
+MOTD_INFO4_K = <br>Скорость: %d
+MOTD_INFO4_L = <br>Гравитация: %d
+MOTD_INFO4_M = <br>Прыжок: %L
+MOTD_INFO4_N = <br>Замедление при попадании: %L
+MOTD_INFO4_O = <br><u>Куча на кучу:</u> %L
+MOTD_INFO4_P = <br>Шанс: 1 из %d
+MOTD_INFO4_Q = <br><u>Массовое Заражение:</u> %L
+MOTD_INFO4_R = <br>Шанс: 1 из %d
+MOTD_INFO4_S = <br>Зараженные: %d%%
+MOTD_INFO4_T = <br><u>Чума:</u> %L
+MOTD_INFO4_U = <br>Шанс: 1 из %d
+MOTD_INFO4_V = <br>Соотношение: %d%%
+
+MOTD_ENABLED = Вкл
+MOTD_DISABLED = Выкл
+MOTD_FOG = Туман
+MOTD_RAIN = Дождь
+MOTD_SNOW = Снег
+MOTD_ROTATING = Вращающиесы двери убраны
+MOTD_DOORS = Все двери убраны
+MOTD_DM_HUMAN = Как Человек
+MOTD_DM_ZOMBIE = Как Зомби
+MOTD_LIMITED = Ограниченно
+MOTD_AMMO_BP = Неогр. боеприпасы
+MOTD_AMMO_CLIP = Неогр. патроны
+MOTD_LASTZOMBIE = Только последний зомби
+
+ZOMBIE_ATTRIB1 = Здоровье
+ZOMBIE_ATTRIB2 = Скорость
+ZOMBIE_ATTRIB3 = Гравитация
+ZOMBIE_ATTRIB4 = Отброс
+
+CLASS_CLASS = Тип:
+CLASS_HUMAN = Человек
+CLASS_ZOMBIE = Зомби
+CLASS_SURVIVOR = Выживший
+CLASS_NEMESIS = Дьявол
+
+LAST_ZOMBIE_LEFT = Единственный Зомби вышел из игры, теперь %s Зомби.
+LAST_HUMAN_LEFT = Единственный Человек вышел из игры, теперь %s Человек.
+NOT_ENOUGH_AMMO = У вас не хватает кредитов.
+AMMO_BOUGHT = Вы купили патроны.
+ZOMBIE_SELECT = После заражения ваш класс Зомби будет
+BUY_ENABLED = Меню покупки вновь включено.
+AMMO_PACKS1 = Аммо:
+AMMO_PACKS2 = аммо
+SPECTATING = Наблюдение:
+
+[ru]
+NOTICE_INFO1 = Нажмите М для вызова меню
+NOTICE_INFO2 = Нажмите , или . для покупки патронов
+NOTICE_VIRUS_FREE = Т-вирус витает в воздухе...
+NOTICE_FIRST = %s первый зомби !!!
+NOTICE_INFECT = Мозги %s были съедены...
+NOTICE_INFECT2 = Мозги %s были съедены %sом(ой)...
+NOTICE_ANTIDOTE = %s использовал противоядие...
+NOTICE_NEMESIS = %s Дьявол !!!
+NOTICE_SURVIVOR = %s Выживший !!!
+NOTICE_SWARM = Куча на кучу !!!
+NOTICE_MULTI = Массовое Заражение !!!
+NOTICE_PLAGUE = Чума расползается !!!
+
+WIN_HUMAN = Люди победили заразу !
+WIN_ZOMBIE = Зомби захватили весь мир !
+WIN_NO_ONE = На этот раз ничья...
+
+CMD_INFECT = стал Зомби
+CMD_DISINFECT = превратился обратно в Человека
+CMD_NEMESIS = Дьявол !!!
+CMD_SURVIVAL = Выживший !!!
+CMD_SWARM = Куча на кучу!
+CMD_MULTI = Массовое Заражение!
+CMD_PLAGUE = Чума!
+CMD_RESPAWN = возродился
+CMD_NOT = Недопустимая команда.
+CMD_ZOMBIE_ONLY = Доступно только для Зомби.
+CMD_HUMAN_ONLY = Доступно только для Людей.
+CMD_NOT_STUCK = Вы не застряли.
+CMD_NOT_ACCESS = У вас нет доступа.
+CMD_NOT_CANTUSE = Это нельзя сейчас использовать.
+CMD_NOT_EXTRAS = Специальные вещи отключены.
+CMD_NOT_ZCLASSES = Классы Зомби отключены.
+
+MENU_BUY = Выбрать оружие
+MENU_EXTRABUY = Купить Спец-вещи
+MENU_ZCLASS = Класс Зомби...
+MENU_UNSTUCK = Застрял!
+MENU_ADMIN = Админ-меню
+MENU_INFO = Помощь
+MENU_SPECTATOR = В зрители
+BUY_ARMOR = КУПИТЬ БРОНЮ
+
+MENU_BUY1_TITLE = Главное оружие
+MENU_BUY2_TITLE = Доп. оружие
+MENU_ZCLASS_TITLE = Класс Зомби:
+MENU_EXTRA_TITLE = Спец-вещи
+MENU_ADMIN_TITLE = Админ-меню
+MENU_INFO_TITLE = Инфо о плагине
+
+MENU_EXTRA1 = Ночное видение
+MENU_EXTRA2 = Антидот
+MENU_EXTRA3 = Бешенство зомби
+MENU_EXTRA4 = Граната-вирус
+MENU_ADMIN1 = Сделать Зомби/Человеком
+MENU_ADMIN2 = Дьяволом
+MENU_ADMIN3 = Выжившим
+MENU_ADMIN4 = Возродить
+MENU_ADMIN5 = Куча на кучу
+MENU_ADMIN6 = Массовое Зар.
+MENU_ADMIN7 = Чума
+MENU_INFO1 = В общем
+MENU_INFO2 = Люди
+MENU_INFO3 = Зомби
+MENU_INFO4 = Варианты игры
+
+MENU_AUTOSELECT = Запомнить выбор
+MENU_BACK = Назад
+MENU_NEXT = Вперед
+MENU_EXIT = Выход
+
+MOTD_INFO11 = <meta charset=UTF-8><meta charset=UTF-8><body bgcolor=000000><font color=FF0505><b>%s %s by %s -</b> мод для Counter-Strike. Классический сценарий: случайный игрок становится зомби и должен заразить всех людей.
+MOTD_INFO12 = Но есть немного новшеств. Специальные вещи(за кредиты), классы зомби. Кредиты можно получить убивая зомби или заражая людей.<br><br><u>Настройки:</u><br>
+MOTD_INFO1_A = Эффекты:
+MOTD_INFO1_B = <br>Освещение: %s
+MOTD_INFO1_C = <br>Выключатели: %L
+MOTD_INFO1_D = <br>Молния: %d сек
+MOTD_INFO1_E = <br>Двери: %L
+MOTD_INFO1_F = <br>Десматч: %L
+MOTD_INFO1_G = <br>Нач. защита: %d сек
+MOTD_INFO1_H = <br>Случайное появление: %L
+MOTD_INFO1_I = <br>Спец-вещи: %L
+MOTD_INFO1_J = <br>Классы Зомби: %L
+MOTD_INFO1_K = <br>NightVision: %L
+MOTD_INFO1_L = <br>Фонарик: %L
+MOTD_INFO2 = <meta charset=UTF-8><body bgcolor=000000><font color=FF0505><b>Люди:</b> их главная задача - это убить всех зомби. В их распоряжении большой выбор оружия и специальных вещей. Коммандная игра необходима для выживания.<br><br><br><u>Текущие настройки сервера:</u><br>
+MOTD_INFO2_A = <br>Здоровье: %d
+MOTD_INFO2_B = <br>Добавляемое здоровье последнему: %d
+MOTD_INFO2_C = <br>Скорость: %d
+MOTD_INFO2_D = <br>Гравитация: %d
+MOTD_INFO2_E = <br>Боеприпасы: %L
+MOTD_INFO2_F = <br>Наносимый урон для получения кредита: %d
+MOTD_INFO2_G = <br>Огненный гранаты: %L
+MOTD_INFO2_H = <br>Замораживающие гранаты: %L
+MOTD_INFO2_I = <br>Осветительные гранаты: %L
+MOTD_INFO2_J = <br>Отскок при попадании: %L
+MOTD_INFO3 = <meta charset=UTF-8><body bgcolor=000000><font color=FF0505><b>Зомби:</b> их задача - заразить всех людей и убить поледнего. Они хорошо видят в темноте, но могут атаковать только своими когтями. Существует много классов зомби, каждый со своими характеристиками.<br><br><br><u>Настройк и:</u><br>
+MOTD_INFO3_A = <br>Здоровье: %d
+MOTD_INFO3_B = <br>Здоровье первого: %d
+MOTD_INFO3_C = <br>Повреждения: %d%%
+MOTD_INFO3_D = <br>Скорость: %d
+MOTD_INFO3_E = <br>Гравитация: %d
+MOTD_INFO3_F = <br>Здоровье, получаемое за заражение: %d
+MOTD_INFO3_G = <br>Замедление при попадании: %L
+MOTD_INFO3_H = <br>Кровотечение: %L
+MOTD_INFO3_I = <br>Кредиты за заражение: %d
+MOTD_INFO4 = <meta charset=UTF-8><body bgcolor=000000><font color=FF0505><b>Мини-игры:</b> есть 5 типов, которые создаются случайно на протяжении игры.<br><br><u>Настройки:</u><br><br>
+MOTD_INFO4_A = <u>Дьявол:</u> %L
+MOTD_INFO4_B = <br>Шанс: 1 из %d
+MOTD_INFO4_C = <br>Здоровье: %s
+MOTD_INFO4_D = <br>Скорость: %d
+MOTD_INFO4_E = <br>Гравитация: %d
+MOTD_INFO4_F = <br>Прыжок: %L
+MOTD_INFO4_G = <br>Замедление при попадании: %L
+MOTD_INFO4_H = <br><u>Выживший:</u> %L
+MOTD_INFO4_I = <br>Шанс: 1 из %d
+MOTD_INFO4_J = <br>Здоровье: %s
+MOTD_INFO4_K = <br>Скорость: %d
+MOTD_INFO4_L = <br>Гравитация: %d
+MOTD_INFO4_M = <br>Прыжок: %L
+MOTD_INFO4_N = <br>Замедление при попадании: %L
+MOTD_INFO4_O = <br><u>Куча на кучу:</u> %L
+MOTD_INFO4_P = <br>Шанс: 1 из %d
+MOTD_INFO4_Q = <br><u>Массовое Заражение:</u> %L
+MOTD_INFO4_R = <br>Шанс: 1 из %d
+MOTD_INFO4_S = <br>Зараженные: %d%%
+MOTD_INFO4_T = <br><u>Чума:</u> %L
+MOTD_INFO4_U = <br>Шанс: 1 из %d
+MOTD_INFO4_V = <br>Соотношение: %d%%
+
+MOTD_ENABLED = Вкл
+MOTD_DISABLED = Выкл
+MOTD_FOG = Туман
+MOTD_RAIN = Дождь
+MOTD_SNOW = Снег
+MOTD_ROTATING = Вращающиесы двери убраны
+MOTD_DOORS = Все двери убраны
+MOTD_DM_HUMAN = Как Человек
+MOTD_DM_ZOMBIE = Как Зомби
+MOTD_LIMITED = Ограниченно
+MOTD_AMMO_BP = Неогр. боеприпасы
+MOTD_AMMO_CLIP = Неогр. патроны
+MOTD_LASTZOMBIE = Только последний зомби
+
+ZOMBIE_ATTRIB1 = Здоровье
+ZOMBIE_ATTRIB2 = Скорость
+ZOMBIE_ATTRIB3 = Гравитация
+ZOMBIE_ATTRIB4 = Отброс
+
+CLASS_CLASS = Тип:
+CLASS_HUMAN = Человек
+CLASS_ZOMBIE = Зомби
+CLASS_SURVIVOR = Выживший
+CLASS_NEMESIS = Дьявол
+
+LAST_ZOMBIE_LEFT = Единственный Зомби вышел из игры, теперь %s Зомби.
+LAST_HUMAN_LEFT = Единственный Человек вышел из игры, теперь %s Человек.
+NOT_ENOUGH_AMMO = У вас не хватает кредитов.
+AMMO_BOUGHT = Вы купили патроны.
+ZOMBIE_SELECT = После заражения ваш класс Зомби будет
+BUY_ENABLED = Меню покупки вновь включено.
+AMMO_PACKS1 = Аммо:
+AMMO_PACKS2 = аммо
+SPECTATING = Наблюдение:

@@ -171,3 +171,100 @@ L 05/05/2020 - 14:39:04: [zm_vip.amxx] ERROR: Missing vips.ini file in configs f
 L 05/05/2020 - 14:39:04: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
 L 05/05/2020 - 14:39:06: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
 L 05/05/2020 - 14:39:10: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 14:47:19: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 14:47:19: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 14:47:19: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 14:47:19: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 14:47:19: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 14:49:02: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 14:49:03: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 14:49:03: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 14:49:03: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 14:49:03: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 14:49:06: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 14:49:09: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 14:53:04: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 14:53:05: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 14:53:05: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 14:53:05: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 14:53:05: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:01:31: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 15:01:35: [admin.amxx] Login: "Vova<3><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 15:11:05: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/05/2020 - 15:11:20: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_survivor
+L 05/05/2020 - 15:14:31: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:14:31: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:14:31: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:14:31: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:14:31: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:18:04: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:18:04: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:18:04: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:18:04: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:18:04: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:18:57: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:18:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:18:58: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:18:58: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:18:58: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:20:37: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:20:38: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:20:38: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:20:38: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:20:38: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:23:51: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:23:51: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:23:51: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:23:51: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:23:51: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:25:07: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:25:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:25:07: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:25:07: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:25:07: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:28:58: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:28:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:28:58: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:28:58: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:28:58: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:30:58: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:30:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:30:58: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:30:58: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:30:58: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:32:51: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:32:52: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:32:52: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:32:52: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:32:52: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:35:13: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:35:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zm_vip.txt
+L 05/05/2020 - 15:35:14: [zm_vip.amxx] WARNING: Missing "zm_vip.cfg" file in configs folder. Can't load cvars values.
+L 05/05/2020 - 15:35:14: [zm_vip.amxx] ERROR: Missing vips.ini file in configs folder. Can't load zm_vip privileges.
+L 05/05/2020 - 15:35:14: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:45:36: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:45:37: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/05/2020 - 15:45:37: [zm_vip.amxx] WARRNING: No vip extra item plugins loaded.
+L 05/05/2020 - 15:46:02: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" kicked due to invalid password (account "Vova") (address "46.118.144.114")
+L 05/05/2020 - 15:46:18: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:46:20: [zm_vip.amxx] [ZMVIP] VIP Connected: Vova (STEAM_0:0:921993139) [46.118.144.114].
+L 05/05/2020 - 15:47:12: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:47:13: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/05/2020 - 15:47:16: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:47:42: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:53:45: [admin.amxx] Login: "Vova<3><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:53:53: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:53:53: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/05/2020 - 15:53:56: [admin.amxx] Login: "Vova<1><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:53:57: [admin.amxx] Login: "Vova<2><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:54:02: [admin.amxx] Login: "Vova<3><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:55:03: [admin.amxx] Login: "Vova<4><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:55:26: [admin.amxx] Login: "Vova<5><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:55:30: [admin.amxx] Login: "Vova<6><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:55:59: [admin.amxx] Login: "Vova<7><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:56:01: [admin.amxx] Login: "Vova<8><STEAM_0:0:921993139><>" became an admin (account "Vova") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/05/2020 - 15:56:04: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:56:04: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/05/2020 - 15:57:40: -------- Mapchange to de_dust2 --------
+L 05/05/2020 - 15:57:41: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/05/2020 - 15:57:49: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED

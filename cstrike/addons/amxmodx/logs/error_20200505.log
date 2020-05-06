@@ -3,3 +3,7 @@ L 05/05/2020 - 13:42:07: Info (map "de_dust2") (file "addons/amxmodx/logs/error_
 L 05/05/2020 - 13:42:07: [ZP] Invalid Player (1)
 L 05/05/2020 - 13:42:07: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
 L 05/05/2020 - 13:42:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/05/2020 - 19:08:51: Start of error session.
+L 05/05/2020 - 19:08:51: Info (map "de_dust") (file "addons/amxmodx/logs/error_20200505.log")
+L 05/05/2020 - 19:08:51: [AMXX] Plugin file open error (plugin "human_armor.amxx")
+L 05/05/2020 - 19:08:51: [AMXX] Plugin file open error (plugin "zp_extra_unlimited_clip.amxx")

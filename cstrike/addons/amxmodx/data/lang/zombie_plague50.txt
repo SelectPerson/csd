@@ -91,7 +91,7 @@ HUMAN_SELECT = Ваш класс человека:
 
 MONEY1 = Деньги:
 MENU_BUY3_TITLE = Гранаты
-MENU_HCLASS = Классы людей
+MENU_HCLASS = Купить Vip / Admin
 MENU_CHOOSE_TEAM = Сменить команду
 MENU_RESPAWN = Возродится
 MENU_DONATE = Передать аммо

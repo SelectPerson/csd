@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<html>
+<head>
+	<title></title>
+</head>
+
+
+<body>
+<h2>Что дает VIP? (Связь с гл Админом. instagram: v.kuzenkov / vk.com/vovakuzenkov )</h2>
+<ul>
+	<li>Двойной прыжок</li>
+	<li>200 брони при старте раунда</li>
+	<li>На 20 % больше урона</li>
+	<li>Вы получаете больше АММО нанося урон зомби</li>
+</ul>
+	<table>
+<tr>
+  <th>На 1 месяц</th>
+  <th>Стоимость</th>
+  </tr>
+ <tr>
+  <td>VIP</td>
+  <td>200 руб.</td>
+ </tr>
+  <tr>
+  <td>Админка</td>
+  <td>450 руб. (скидк 50 руб.)</td>
+ </tr>
+  <tr>
+  <td>VIP</td>
+  <td>400 руб.</td>
+ </tr>
+</tr>
+<tr>
+  <th>На 3 месяца</th>
+  <th>Стоимость</th>
+  </tr>
+ <tr>
+  <td>VIP</td>
+  <td>500 руб.</td>
+ </tr>
+  <tr>
+  <td>Админка</td>
+  <td>650 руб.</td>
+ </tr>
+  <tr>
+  <td>VIP</td>
+  <td>1000 руб. (скидка 150 руб.)</td>
+ </tr>
+ <tr>
+  <td>Связь:</td>
+  <td>instagram: v.kuzenkov / vk.com/vovakuzenkov</td>
+ </tr>
+</tr>
+</table>
+<style>
+table {
+font-family: Sans-Serif;
+font-size: 14px;
+border-collapse: collapse;
+text-align: center;
+width: 100%;
+}
+th {
+background: #AFCDE7;
+color: white;
+padding: 10px 20px;
+}
+td {
+border-style: solid;
+border-width: 0 1px 1px 0;
+border-color: white;
+background: white;
+width: 50%;
+padding: 5px 10px;
+}
+td {
+background: #D8E6F3;
+}
+
+
+</style>
+</body>
+</html>

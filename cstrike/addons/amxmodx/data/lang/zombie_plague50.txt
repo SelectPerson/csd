@@ -39,7 +39,7 @@ ZOMBIENAME Classic Zombie = Зомби
 ZOMBIEDESC Classic Zombie = =Баланс=
 ZOMBIENAME Raptor Zombie = Раптор
 ZOMBIEDESC Raptor Zombie = Скорость
-ZOMBIENAME Light Zombie = Хишник
+ZOMBIENAME Light Zombie = Хищник
 ZOMBIEDESC Light Zombie = Прыжок
 ZOMBIENAME Fat Zombie = Толстяк
 ZOMBIEDESC Fat Zombie = Жизни
@@ -107,7 +107,7 @@ ZOMBIENAME Classic Zombie = Зомби
 ZOMBIEDESC Classic Zombie = =Баланс=
 ZOMBIENAME Raptor Zombie = Раптор
 ZOMBIEDESC Raptor Zombie = Скорость
-ZOMBIENAME Light Zombie = Хишник
+ZOMBIENAME Light Zombie = Хищник
 ZOMBIEDESC Light Zombie = Прыжок
 ZOMBIENAME Fat Zombie = Толстяк
 ZOMBIEDESC Fat Zombie = Жизни

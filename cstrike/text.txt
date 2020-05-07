@@ -12,7 +12,7 @@
 <h2>Что дает VIP? (Связь с гл Админом. instagram: v.kuzenkov / vk.com/vovakuzenkov )</h2>
 <ul>
 	<li>Двойной прыжок</li>
-	<li>200 брони при старте раунда</li>
+	<li>100 брони при старте раунда</li>
 	<li>На 20 % больше урона</li>
 	<li>Вы получаете больше АММО нанося урон зомби</li>
 </ul>
@@ -27,11 +27,11 @@
  </tr>
   <tr>
   <td>Админка</td>
-  <td>450 руб. (скидк 50 руб.)</td>
+  <td>250 руб.</td>
  </tr>
   <tr>
   <td>VIP</td>
-  <td>400 руб.</td>
+  <td>400 руб. (скидка 50 руб.)</td>
  </tr>
 </tr>
 <tr>
@@ -51,8 +51,8 @@
   <td>1000 руб. (скидка 150 руб.)</td>
  </tr>
  <tr>
-  <td>Связь:</td>
-  <td>instagram: v.kuzenkov / vk.com/vovakuzenkov</td>
+  <td>Группа ВК:</td>
+  <td>vk.com/selfzm</td>
  </tr>
 </tr>
 </table>

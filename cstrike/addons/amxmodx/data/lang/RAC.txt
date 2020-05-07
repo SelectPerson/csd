@@ -5,7 +5,7 @@ LOG_F_3 = "%s" ("%s") <"%s"> был забаннен за использование читов <"%s"> "%s"
 LOG_F_3 = "%s" ("%s") <"%s"> FullUpdate Spam"
 
 [en]
-LOG_F_1 = "%s" ("%s") can have cheats. "%s"
-LOG_F_2 = "%s" ("%s") <"%s"> was kicked for having cheats on <"%s"> "%s"
-LOG_F_3 = "%s" ("%s") <"%s"> was banned for having cheats on <"%s"> "%s"
+LOG_F_1 = "%s" ("%s") использование читов. "%s"
+LOG_F_2 = "%s" ("%s") <"%s"> был кикнут за использование читов <"%s"> "%s"
+LOG_F_3 = "%s" ("%s") <"%s"> был забаннен за использование читов <"%s"> "%s"
 LOG_F_3 = "%s" ("%s") <"%s"> FullUpdate Spam"

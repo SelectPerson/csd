@@ -1,0 +1,74 @@
+L 05/06/2020 - 11:09:53: Start of error session.
+L 05/06/2020 - 11:09:53: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 11:09:53: [ZP] Invalid Player (5)
+L 05/06/2020 - 11:09:53: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 11:09:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 11:19:31: Start of error session.
+L 05/06/2020 - 11:19:31: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 11:19:31: [ZP] Invalid Player (4)
+L 05/06/2020 - 11:19:31: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 11:19:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 12:31:02: Start of error session.
+L 05/06/2020 - 12:31:02: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 12:31:02: [ZP] Invalid Player (9)
+L 05/06/2020 - 12:31:02: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 12:31:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 12:38:56: Start of error session.
+L 05/06/2020 - 12:38:56: Info (map "zm_minecraft") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 12:38:56: [ZP] Invalid Player (4)
+L 05/06/2020 - 12:38:56: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 12:38:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 12:38:56: [ZP] Invalid Player (6)
+L 05/06/2020 - 12:38:56: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 12:38:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 13:55:08: Start of error session.
+L 05/06/2020 - 13:55:08: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 13:55:08: [ZP] Invalid Player (3)
+L 05/06/2020 - 13:55:08: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 13:55:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 15:00:48: Start of error session.
+L 05/06/2020 - 15:00:48: Info (map "zm_inferno") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 15:00:48: [ZP] Invalid Player (1)
+L 05/06/2020 - 15:00:48: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 15:00:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 15:00:48: [ZP] Invalid Player (5)
+L 05/06/2020 - 15:00:48: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 15:00:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 15:42:28: Start of error session.
+L 05/06/2020 - 15:42:28: Info (map "zm_2010") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 15:42:28: [ZP] Invalid Player (3)
+L 05/06/2020 - 15:42:28: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 15:42:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 16:53:32: Start of error session.
+L 05/06/2020 - 16:53:32: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 16:53:32: [ZP] Invalid Player (1)
+L 05/06/2020 - 16:53:32: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 16:53:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 16:53:32: [ZP] Invalid Player (4)
+L 05/06/2020 - 16:53:32: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 16:53:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 17:23:58: Start of error session.
+L 05/06/2020 - 17:23:58: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 17:23:58: [ZP] Invalid Player (1)
+L 05/06/2020 - 17:23:58: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 17:23:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 18:10:18: Start of error session.
+L 05/06/2020 - 18:10:18: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 18:10:18: [ZP] Invalid Player (5)
+L 05/06/2020 - 18:10:18: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 18:10:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 18:19:22: Start of error session.
+L 05/06/2020 - 18:19:22: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 18:19:22: [ZP] Invalid Player (5)
+L 05/06/2020 - 18:19:22: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 18:19:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 18:23:17: Start of error session.
+L 05/06/2020 - 18:23:17: Info (map "zm_ice_attack2") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 18:23:17: [ZP] Invalid Player (2)
+L 05/06/2020 - 18:23:17: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 18:23:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/06/2020 - 21:56:03: Start of error session.
+L 05/06/2020 - 21:56:03: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200506.log")
+L 05/06/2020 - 21:56:03: [ZP] Invalid Player (1)
+L 05/06/2020 - 21:56:03: [AMXX] Run time error 10 (plugin "zp50_class_zombie_rage.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/06/2020 - 21:56:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

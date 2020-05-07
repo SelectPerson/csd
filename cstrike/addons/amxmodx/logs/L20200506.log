@@ -10,3 +10,468 @@ L 05/06/2020 - 07:40:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
 L 05/06/2020 - 07:40:21: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
 L 05/06/2020 - 07:40:22: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
 L 05/06/2020 - 07:40:22: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 07:41:17: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 07:41:17: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 07:43:35: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 07:43:35: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 07:46:30: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 07:46:31: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 07:46:37: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 07:46:37: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 07:46:48: [mapsmenu.amxx] Cmd: "DeathBlood<1><STEAM_0:0:921993139><>" changelevel "zm_assault_attack"
+L 05/06/2020 - 07:46:50: -------- Mapchange to zm_assault_attack --------
+L 05/06/2020 - 07:46:51: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 07:46:51: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 07:50:46: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 07:50:47: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 07:50:49: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 07:50:49: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 07:51:06: [mapsmenu.amxx] Cmd: "DeathBlood<1><STEAM_0:0:921993139><>" changelevel "zm_ice_attack"
+L 05/06/2020 - 07:51:08: -------- Mapchange to zm_ice_attack --------
+L 05/06/2020 - 07:51:09: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 07:51:09: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 07:51:19: [mapsmenu.amxx] Cmd: "DeathBlood<1><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/06/2020 - 07:51:22: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 07:51:23: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 07:51:23: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 07:53:31: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 07:53:31: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:04:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 08:04:42: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:19:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 08:19:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_inferno
+L 05/06/2020 - 08:20:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 08:20:56: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:21:31: -------- Mapchange to zm_inferno --------
+L 05/06/2020 - 08:21:32: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 08:21:32: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:21:33: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 08:21:33: [admin.amxx] Login: "DeathBlood<5><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:24:20: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 08:24:20: [admin.amxx] Login: "DeathBlood<6><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:24:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/06/2020 - 08:24:21: [admin.amxx] Login: "DeathBlood<7><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:28:14: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 08:28:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:28:17: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:28:17: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:29:55: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 08:29:56: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:29:59: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:29:59: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:30:04: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:30:04: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:30:05: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:30:05: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:32:17: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 08:32:18: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:32:21: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:32:21: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:35:17: -------- Mapchange to zm_toxic_house2 --------
+L 05/06/2020 - 08:35:18: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:35:22: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:35:22: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:35:23: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:35:23: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:37:36: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:37:36: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:37:40: -------- Mapchange to zm_toxic_house2 --------
+L 05/06/2020 - 08:37:41: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:37:52: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:37:52: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:40:10: -------- Mapchange to zm_2010 --------
+L 05/06/2020 - 08:40:10: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:40:15: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:40:15: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:40:17: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:40:17: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:41:20: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:41:20: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:41:22: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:41:22: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:43:28: -------- Mapchange to zm_rats_v2 --------
+L 05/06/2020 - 08:43:29: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:43:32: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:43:32: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:43:34: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:43:34: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:49:16: -------- Mapchange to zm_rats_v2 --------
+L 05/06/2020 - 08:49:16: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:49:20: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:49:20: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:49:30: [mapsmenu.amxx] Cmd: "DeathBlood<1><STEAM_0:0:921993139><>" changelevel "zm_ice_attack2"
+L 05/06/2020 - 08:49:32: -------- Mapchange to zm_ice_attack2 --------
+L 05/06/2020 - 08:49:33: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:49:33: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:49:35: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:49:35: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:52:35: -------- Mapchange to zm_2010 --------
+L 05/06/2020 - 08:52:36: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 08:52:44: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:52:44: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 08:52:45: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 08:52:45: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 09:03:51: -------- Mapchange to zm_2010 --------
+L 05/06/2020 - 09:03:51: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 09:03:57: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 09:03:57: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 09:03:58: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 09:03:58: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 09:31:52: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 09:32:07: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_inferno
+L 05/06/2020 - 09:34:01: -------- Mapchange to zm_inferno --------
+L 05/06/2020 - 09:34:01: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 09:34:01: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 09:34:03: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 09:34:03: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 10:01:11: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 10:01:11: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 10:01:12: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 10:01:12: [admin.amxx] Login: "DeathBlood<5><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 10:02:01: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 10:02:16: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/06/2020 - 10:04:10: -------- Mapchange to zm_ice_attack --------
+L 05/06/2020 - 10:04:10: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 10:04:10: [admin.amxx] Login: "DeathBlood<5><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 10:20:07: [admin.amxx] Login: "DeathBlood<13><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 10:20:17: [admin.amxx] Login: "DeathBlood<14><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 10:20:25: [admin.amxx] Login: "DeathBlood<15><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 10:20:27: [admin.amxx] Login: "DeathBlood<16><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 10:20:55: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 10:20:55: [admin.amxx] Login: "DeathBlood<17><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 10:45:39: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 10:45:54: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_inferno
+L 05/06/2020 - 10:58:05: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 10:58:05: [admin.amxx] Login: "DeathBlood<25><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 11:09:51: [mapsmenu.amxx] Cmd: "DeathBlood<25><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/06/2020 - 11:09:53: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 11:09:54: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 11:09:54: [admin.amxx] Login: "DeathBlood<25><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 11:19:29: [mapsmenu.amxx] Cmd: "DeathBlood<25><STEAM_0:0:921993139><>" changelevel "zm_2010"
+L 05/06/2020 - 11:19:31: -------- Mapchange to zm_2010 --------
+L 05/06/2020 - 11:19:32: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 11:19:32: [admin.amxx] Login: "DeathBlood<25><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 11:19:33: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 11:19:33: [admin.amxx] Login: "DeathBlood<43><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 11:24:09: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 11:24:09: [admin.amxx] Login: "DeathBlood<52><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 11:24:11: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 11:24:11: [admin.amxx] Login: "DeathBlood<53><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 11:47:46: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 11:48:01: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_toxic_house2
+L 05/06/2020 - 11:49:58: -------- Mapchange to zm_toxic_house2 --------
+L 05/06/2020 - 11:49:59: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 11:49:59: [admin.amxx] Login: "DeathBlood<53><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:00:28: [mapsmenu.amxx] Cmd: "DeathBlood<53><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/06/2020 - 12:00:30: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 12:00:31: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:00:31: [admin.amxx] Login: "DeathBlood<53><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:28:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 12:29:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft
+L 05/06/2020 - 12:31:03: -------- Mapchange to zm_minecraft --------
+L 05/06/2020 - 12:31:04: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:31:04: [admin.amxx] Login: "DeathBlood<53><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:38:54: [mapsmenu.amxx] Cmd: "DeathBlood<53><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/06/2020 - 12:38:56: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 12:38:57: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:38:57: [admin.amxx] Login: "DeathBlood<53><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:40:09: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 12:40:09: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 12:40:14: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:40:14: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:41:07: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:41:07: [admin.amxx] Login: "DeathBlood<5><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:45:40: -------- Mapchange to zm_rats_v2 --------
+L 05/06/2020 - 12:45:41: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 12:50:15: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:50:15: [admin.amxx] Login: "DeathBlood<7><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:52:20: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:52:20: [admin.amxx] Login: "DeathBlood<8><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:53:24: [mapsmenu.amxx] Cmd: "DeathBlood<8><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/06/2020 - 12:53:26: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 12:53:27: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:53:27: [admin.amxx] Login: "DeathBlood<8><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 12:55:38: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 12:55:38: [admin.amxx] Login: "DeathBlood<12><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 13:05:55: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 13:05:55: [admin.amxx] Login: "DeathBlood<17><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 13:06:16: -------- Mapchange to zm_rats_v2 --------
+L 05/06/2020 - 13:06:16: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 13:06:24: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 13:06:24: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 13:06:39: [mapsmenu.amxx] Cmd: "DeathBlood<1><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/06/2020 - 13:06:41: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 13:06:42: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 13:06:42: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 13:14:43: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 13:14:43: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 13:15:32: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 13:15:33: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 13:15:51: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 13:15:51: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 13:52:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 13:53:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_inferno
+L 05/06/2020 - 13:55:08: -------- Mapchange to zm_inferno --------
+L 05/06/2020 - 14:58:38: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 14:58:53: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack2
+L 05/06/2020 - 15:00:48: -------- Mapchange to zm_ice_attack2 --------
+L 05/06/2020 - 15:29:03: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 15:29:18: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_2010
+L 05/06/2020 - 15:31:12: -------- Mapchange to zm_2010 --------
+L 05/06/2020 - 15:41:50: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 15:41:50: [admin.amxx] Login: "DeathBlood<104><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 15:41:51: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 15:41:51: [admin.amxx] Login: "DeathBlood<105><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 15:42:26: [mapsmenu.amxx] Cmd: "DeathBlood<105><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/06/2020 - 15:42:28: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 15:42:29: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 15:42:29: [admin.amxx] Login: "DeathBlood<105><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 15:44:47: [plmenu.amxx] Cmd: "DeathBlood<105><STEAM_0:0:921993139><>" slay "DeathBlood<105><STEAM_0:0:921993139><>"
+L 05/06/2020 - 15:58:58: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 15:58:58: [admin.amxx] Login: "DeathBlood<111><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 16:23:03: [mapsmenu.amxx] Cmd: "DeathBlood<111><STEAM_0:0:921993139><>" changelevel "zm_ice_attack"
+L 05/06/2020 - 16:23:05: -------- Mapchange to zm_ice_attack --------
+L 05/06/2020 - 16:23:06: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 16:23:06: [admin.amxx] Login: "DeathBlood<111><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 16:39:45: [plmenu.amxx] Ban: "DeathBlood<111><STEAM_0:0:921993139><>" ban and kick "Covid-19<138><STEAM_0:0:455314930><>" (minutes "0")
+L 05/06/2020 - 16:51:20: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 16:51:35: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/06/2020 - 16:53:32: -------- Mapchange to zm_ice_attack --------
+L 05/06/2020 - 16:55:23: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 16:55:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 16:56:56: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 16:56:56: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 16:58:02: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 16:58:03: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 16:58:06: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 16:58:06: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 16:58:27: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 16:58:28: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 16:58:30: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 16:58:30: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 16:59:05: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 16:59:05: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 16:59:07: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 16:59:07: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 16:59:45: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 16:59:46: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 16:59:55: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 16:59:55: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:00:06: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:00:06: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:08:52: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:09:00: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:09:38: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:09:52: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:10:29: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:10:30: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:10:35: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:10:35: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:10:36: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:10:36: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:11:15: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:11:15: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:12:33: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:12:33: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:13:19: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:13:19: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:13:21: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:13:21: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:19:49: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:19:49: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:19:54: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:19:54: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:21:11: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:21:11: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:21:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 17:21:46: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_inferno
+L 05/06/2020 - 17:21:59: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:22:00: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:22:27: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:22:27: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:22:35: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:22:35: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:22:57: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:22:58: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:23:01: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:23:01: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:23:58: -------- Mapchange to zm_inferno --------
+L 05/06/2020 - 17:28:52: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 17:28:52: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:28:55: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:28:55: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:33:22: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 17:33:23: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:33:32: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:33:32: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:33:54: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:33:54: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:35:04: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 17:35:04: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 17:35:26: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:36:22: [admin.amxx] Login: "DeathBlood<6><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:36:59: [admin.amxx] Login: "DeathBlood<7><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:37:09: [admin.amxx] Login: "DeathBlood<8><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:38:09: [admin.amxx] Login: "DeathBlood<9><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:38:49: [admin.amxx] Login: "DeathBlood<10><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:38:58: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:40:11: [admin.amxx] Login: "DeathBlood<14><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:40:15: [admin.amxx] Login: "DeathBlood<16><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:40:19: [admin.amxx] Login: "DeathBlood<18><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:40:49: [admin.amxx] Login: "DeathBlood<19><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:41:49: [admin.amxx] Login: "DeathBlood<20><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:42:26: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:42:26: [admin.amxx] Login: "DeathBlood<21><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:53:23: [admin.amxx] Login: "DeathBlood<27><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:53:28: [admin.amxx] Login: "DeathBlood<28><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:53:38: [admin.amxx] Login: "DeathBlood<29><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:53:54: [admin.amxx] Login: "DeathBlood<30><STEAM_0:0:105811443><>" kicked due to invalid password (account "DeathBlood") (address "46.118.144.114")
+L 05/06/2020 - 17:55:22: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:55:22: [admin.amxx] Login: "DeathBlood<31><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:58:04: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:58:04: [admin.amxx] Login: "DeathBlood<33><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:58:10: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:58:10: [admin.amxx] Login: "DeathBlood<34><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:58:28: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:58:28: [admin.amxx] Login: "DeathBlood<37><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 17:58:28: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 17:58:28: [admin.amxx] Login: "DeathBlood<38><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:10:16: [mapsmenu.amxx] Cmd: "DeathBlood<38><STEAM_0:0:105811443><>" changelevel "zm_ice_attack"
+L 05/06/2020 - 18:10:18: -------- Mapchange to zm_ice_attack --------
+L 05/06/2020 - 18:10:19: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 18:10:19: [admin.amxx] Login: "DeathBlood<38><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:19:20: [mapsmenu.amxx] Cmd: "DeathBlood<38><STEAM_0:0:105811443><>" changelevel "zm_ice_attack2"
+L 05/06/2020 - 18:19:22: -------- Mapchange to zm_ice_attack2 --------
+L 05/06/2020 - 18:19:23: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 18:19:23: [admin.amxx] Login: "DeathBlood<38><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:19:25: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 18:19:25: [admin.amxx] Login: "DeathBlood<57><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:22:39: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 18:22:39: [admin.amxx] Login: "DeathBlood<60><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:22:54: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 18:22:54: [admin.amxx] Login: "DeathBlood<62><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:23:15: [mapsmenu.amxx] Cmd: "DeathBlood<62><STEAM_0:0:105811443><>" changelevel "zm_fun_world_2"
+L 05/06/2020 - 18:23:17: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 18:23:18: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 18:23:18: [admin.amxx] Login: "DeathBlood<62><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:43:21: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 18:43:21: [admin.amxx] Login: "DeathBlood<74><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:45:25: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:105811443") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 18:45:25: [admin.amxx] Login: "DeathBlood<76><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 18:58:27: [adminchat.amxx] Chat: "DeathBlood<76><STEAM_0:0:105811443><>" chat "I am use F12"
+L 05/06/2020 - 18:58:27: [adminchat.amxx] Chat: "DeathBlood<76><STEAM_0:0:105811443><>" chat "I am use F12"
+L 05/06/2020 - 19:14:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 19:15:02: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/06/2020 - 19:17:05: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 19:19:38: [admin.amxx] Login: "DeathBlood<100><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 19:23:56: [mapsmenu.amxx] Cmd: "DeathBlood<100><STEAM_0:0:921993139><>" changelevel "zm_ice_attack2"
+L 05/06/2020 - 19:23:58: -------- Mapchange to zm_ice_attack2 --------
+L 05/06/2020 - 19:23:59: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 19:23:59: [admin.amxx] Login: "DeathBlood<100><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 19:34:08: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 19:34:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 19:34:14: [admin.amxx] Login: "Dro4yBezrykim<1><STEAM_0:0:921993139><>" kicked due to invalid password (account "Dro4yBezrykim") (address "46.118.144.114")
+L 05/06/2020 - 19:34:16: [admin.amxx] Login: "Dro4yBezrykim<2><STEAM_0:0:921993139><>" kicked due to invalid password (account "Dro4yBezrykim") (address "46.118.144.114")
+L 05/06/2020 - 19:34:36: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 19:34:36: [admin.amxx] Login: "Dro4yBezrykim<3><STEAM_0:0:921993139><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 19:35:06: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 19:35:06: [admin.amxx] Login: "Dro4yBezrykim<4><STEAM_0:0:921993139><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 19:35:16: [admin.amxx] Login: "Orange<5><STEAM_0:0:921993139><>" kicked due to invalid password (account "Orange") (address "46.118.144.114")
+L 05/06/2020 - 19:35:29: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 19:35:29: [admin.amxx] Login: "DeathBlood<6><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 19:36:06: [admin.amxx] Login: "Dro4yBezrykim<8><STEAM_0:0:832700881><>" kicked due to invalid password (account "Dro4yBezrykim") (address "185.183.94.221")
+L 05/06/2020 - 19:36:33: [admin.amxx] Login: "Dro4yBezrykim<11><STEAM_0:0:832700881><>" kicked due to invalid password (account "Dro4yBezrykim") (address "185.183.94.221")
+L 05/06/2020 - 19:37:17: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:832700881") (IP: "185.183.94.221") (teisės: "abcde")
+L 05/06/2020 - 19:37:17: [admin.amxx] Login: "Dro4yBezrykim<13><STEAM_0:0:832700881><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "185.183.94.221")
+L 05/06/2020 - 19:37:23: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:832700881") (IP: "185.183.94.221") (teisės: "abcde")
+L 05/06/2020 - 19:37:23: [admin.amxx] Login: "Dro4yBezrykim<14><STEAM_0:0:832700881><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "185.183.94.221")
+L 05/06/2020 - 19:51:59: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 19:52:00: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 19:52:08: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:832700881") (IP: "185.183.94.221") (teisės: "abcde")
+L 05/06/2020 - 19:52:08: [admin.amxx] Login: "Dro4yBezrykim<2><STEAM_0:0:832700881><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "185.183.94.221")
+L 05/06/2020 - 19:52:14: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 19:52:18: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 19:52:18: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 19:55:36: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 19:55:36: [admin.amxx] Login: "Orange<9><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 19:58:43: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 19:58:44: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 19:58:45: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 19:58:45: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 19:58:47: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 19:58:47: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 19:58:49: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 19:58:49: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 19:58:58: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:832700881") (IP: "185.183.94.221") (teisės: "abcde")
+L 05/06/2020 - 19:58:58: [admin.amxx] Login: "Dro4yBezrykim<5><STEAM_0:0:832700881><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "185.183.94.221")
+L 05/06/2020 - 20:00:10: [mapsmenu.amxx] Cmd: "DeathBlood<3><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/06/2020 - 20:00:12: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 20:00:13: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 20:00:13: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 20:00:13: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 20:00:13: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 20:00:13: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:832700881") (IP: "185.183.94.221") (teisės: "abcde")
+L 05/06/2020 - 20:00:13: [admin.amxx] Login: "Dro4yBezrykim<5><STEAM_0:0:832700881><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "185.183.94.221")
+L 05/06/2020 - 20:00:15: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:832700881") (IP: "185.183.94.221") (teisės: "abcde")
+L 05/06/2020 - 20:00:15: [admin.amxx] Login: "Dro4yBezrykim<6><STEAM_0:0:832700881><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "185.183.94.221")
+L 05/06/2020 - 20:05:12: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 20:05:12: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 20:05:13: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 20:05:13: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 20:05:14: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 20:05:14: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 20:05:23: [zm_vip.amxx] Dro4yBezrykim prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:832700881") (IP: "185.183.94.221") (teisės: "abcde")
+L 05/06/2020 - 20:05:23: [admin.amxx] Login: "Dro4yBezrykim<3><STEAM_0:0:832700881><>" became an admin (account "Dro4yBezrykim") (access "abcdefghijklmnopqrstu") (address "185.183.94.221")
+L 05/06/2020 - 20:28:48: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 20:28:48: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 20:28:52: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 20:28:52: [admin.amxx] Login: "Orange<2><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 20:28:53: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 20:28:53: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 20:44:06: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 20:44:07: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 20:44:08: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 20:44:08: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 20:44:10: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 20:44:10: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 20:50:19: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 20:50:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 20:50:22: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 20:50:22: [admin.amxx] Login: "Orange<2><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 20:50:26: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 20:50:26: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 20:54:21: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 20:54:21: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 20:54:25: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 20:54:25: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 20:54:27: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 20:54:27: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 20:56:54: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 20:56:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 20:56:57: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 20:56:57: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 20:57:02: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 20:57:02: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 21:06:17: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 21:06:18: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 21:06:19: [zm_vip.amxx] Orange prisijungė kaip VIP narys. (SteamID: "STEAM_0:1:169991837") (IP: "193.138.145.4") (teisės: "abcde")
+L 05/06/2020 - 21:06:19: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "abcdefghijklmnopqrstu") (address "193.138.145.4")
+L 05/06/2020 - 21:06:20: [zm_vip.amxx] DeathBlood prisijungė kaip VIP narys. (SteamID: "STEAM_0:0:921993139") (IP: "46.118.144.114") (teisės: "abcde")
+L 05/06/2020 - 21:06:20: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/06/2020 - 21:25:53: -------- Mapchange to zm_fun_world_2 --------
+L 05/06/2020 - 21:25:54: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/06/2020 - 21:53:54: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 21:54:09: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/06/2020 - 21:56:03: -------- Mapchange to zm_dust2_2x2 --------
+L 05/06/2020 - 22:24:03: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 22:24:18: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/06/2020 - 22:26:13: -------- Mapchange to zm_ice_attack --------
+L 05/06/2020 - 22:54:12: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 22:54:27: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_inferno
+L 05/06/2020 - 22:56:21: -------- Mapchange to zm_inferno --------
+L 05/06/2020 - 23:24:21: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 23:24:36: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft
+L 05/06/2020 - 23:26:31: -------- Mapchange to zm_minecraft --------
+L 05/06/2020 - 23:54:30: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2020 - 23:54:45: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_assault_attack
+L 05/06/2020 - 23:56:40: -------- Mapchange to zm_assault_attack --------

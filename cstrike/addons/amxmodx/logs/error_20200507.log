@@ -1,0 +1,8 @@
+L 05/07/2020 - 07:21:59: Start of error session.
+L 05/07/2020 - 07:21:59: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200507.log")
+L 05/07/2020 - 07:21:59: Called dynanative into a paused plugin.
+L 05/07/2020 - 07:21:59: [AMXX] Run time error 10 (plugin "zp50_leap.amxx") (native "zp_core_is_zombie") - debug not enabled!
+L 05/07/2020 - 07:21:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/07/2020 - 07:21:59: Called dynanative into a paused plugin.
+L 05/07/2020 - 07:21:59: [AMXX] Run time error 10 (plugin "zp50_hud_info.amxx") (native "zp_core_is_zombie") - debug not enabled!
+L 05/07/2020 - 07:21:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

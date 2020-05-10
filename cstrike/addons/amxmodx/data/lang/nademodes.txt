@@ -1,0 +1,26 @@
+[en]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Что мне нужно сделать?</div>
+<div>Когда у вас в руке есть граната, вы просто нажимаете правую кнопку мыши: Режим отключения лазера.</div>
+<div>После того, как вы выбрали режим и бросили гранату, вы заметите, что ее поведение изменится</div>
+<div><br \></div>
+<div>Что делает каждый режим?</div>
+<div>1. Normal</div>
+<div>- normal grenade, the one that everybody knows</div>
+<div>2. Proximity</div>
+<div>- the grenade doesn't explode unless someone is near it</div>
+<div>3. Impact</div>
+<div>- the grenade blows when it touches something (like a wall or a player)</div>
+<div>4. Trip Laser</div>
+<div>- the grenade attaches to something solid (like wall), after it will activate if a player will pass through it's laser then the grenade will explode</div>
+<div>5. Motion</div>
+<div>- same with proximity, but the grenade explodes when the player has speed</div>
+<div>6. Satchel Charge</div>
+<div>- the grenade explodes when you press the +use key. (default e)</div>
+<div>7. Homing</div>
+<div>- the grenade follows the enemy</div>
+<br>
+<div>Commands:</div>
+<div>amx_nmm [admin] - plugin configuration menu</div>
+<div>amx_nms [client] - favourite modes configuration menu</font></div>

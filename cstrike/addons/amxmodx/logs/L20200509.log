@@ -1,0 +1,691 @@
+L 05/09/2020 - 00:25:30: -------- Mapchange to zm_inferno --------
+L 05/09/2020 - 00:53:30: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 00:53:45: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft
+L 05/09/2020 - 01:21:19: -------- Mapchange to zm_minecraft --------
+L 05/09/2020 - 01:49:19: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 01:49:34: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_assault_attack
+L 05/09/2020 - 02:17:07: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 02:45:07: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 02:45:22: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 03:12:56: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 03:40:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 03:41:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/09/2020 - 04:08:44: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 04:36:44: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 04:36:59: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_inferno
+L 05/09/2020 - 04:42:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 05:53:44: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 05:53:59: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_inferno
+L 05/09/2020 - 05:56:01: -------- Mapchange to zm_inferno --------
+L 05/09/2020 - 06:24:01: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 06:24:16: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft
+L 05/09/2020 - 06:40:31: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 06:40:35: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:01:45: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:01:48: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:03:16: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 07:03:31: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_texas_night
+L 05/09/2020 - 07:05:34: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 07:05:35: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:06:12: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:18:07: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:18:07: [admin.amxx] Login: "DeathBlood<144><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/09/2020 - 07:18:49: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 07:18:50: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:18:50: [admin.amxx] Login: "DeathBlood<144><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/09/2020 - 07:21:13: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:21:13: [admin.amxx] Login: "Rurik<145><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:26:56: [admincmd.amxx] Cmd: "Rurik<145><STEAM_0:0:103305525><>" changelevel "zm_minecraft"
+L 05/09/2020 - 07:26:58: -------- Mapchange to zm_minecraft --------
+L 05/09/2020 - 07:26:59: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:26:59: [admin.amxx] Login: "Rurik<145><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:27:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:27:04: [admin.amxx] Login: "Rurik<146><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:35:02: [admincmd.amxx] Kick: "Rurik<146><STEAM_0:0:103305525><>" kick "Rurik<146><STEAM_0:0:103305525><>" (reason "Тест")
+L 05/09/2020 - 07:35:05: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:35:05: [admin.amxx] Login: "Rurik<147><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:35:53: [admincmd.amxx] Cmd: "Rurik<147><STEAM_0:0:103305525><>" change nick to "4eJL" "Rurik<147><STEAM_0:0:103305525><>"
+L 05/09/2020 - 07:36:05: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:36:05: [admin.amxx] Login: "Rurik<148><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:38:18: [mapsmenu.amxx] Cmd: "Rurik<148><STEAM_0:0:103305525><>" changelevel "zm_toxic_house2"
+L 05/09/2020 - 07:38:20: -------- Mapchange to zm_toxic_house2 --------
+L 05/09/2020 - 07:38:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:38:21: [admin.amxx] Login: "Rurik<148><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:38:24: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:38:24: [admin.amxx] Login: "Rurik<149><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:38:59: [mapsmenu.amxx] Cmd: "Rurik<149><STEAM_0:0:103305525><>" changelevel "zm_ice_attack2"
+L 05/09/2020 - 07:39:01: -------- Mapchange to zm_ice_attack2 --------
+L 05/09/2020 - 07:39:02: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:39:02: [admin.amxx] Login: "Rurik<149><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:39:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:39:04: [admin.amxx] Login: "Rurik<150><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:43:55: [admincmd.amxx] Ban: "Rurik<150><STEAM_0:0:103305525><>" ban and kick "Rurik<150><STEAM_0:0:103305525><>" (minutes "1s") (reason "Крутой")
+L 05/09/2020 - 07:44:58: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:44:58: [admin.amxx] Login: "Rurik<154><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:48:48: [mapsmenu.amxx] Cmd: "Rurik<154><STEAM_0:0:103305525><>" changelevel "zm_fun_world_2"
+L 05/09/2020 - 07:48:50: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 07:48:51: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 07:48:51: [admin.amxx] Login: "Rurik<154><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 07:51:59: [plmenu.amxx] Kick: "Rurik<154><STEAM_0:0:103305525><>" kick "Fisher<158><STEAM_0:0:651995471><>"
+L 05/09/2020 - 08:20:49: [admincmd.amxx] Cmd: "Rurik<154><STEAM_0:0:103305525><>" changelevel "zm_texas_night"
+L 05/09/2020 - 08:20:51: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 08:20:52: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 08:20:52: [admin.amxx] Login: "Rurik<154><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 08:38:24: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 08:38:24: [admin.amxx] Login: "Orange<168><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 08:41:45: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 08:41:45: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/09/2020 - 08:49:21: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 08:49:36: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack2
+L 05/09/2020 - 08:51:27: -------- Mapchange to zm_ice_attack2 --------
+L 05/09/2020 - 08:51:28: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 08:51:28: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/09/2020 - 08:51:28: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 08:51:28: [admin.amxx] Login: "Orange<168><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 08:51:28: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 08:51:28: [admin.amxx] Login: "Rurik<154><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 08:59:59: [admincmd.amxx] Kick: "Rurik<154><STEAM_0:0:103305525><>" kick "Rurik<154><STEAM_0:0:103305525><>" (reason "Патаму")
+L 05/09/2020 - 09:00:05: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:00:05: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:01:41: -------- Mapchange to zm_ice_attack2 --------
+L 05/09/2020 - 09:01:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:01:42: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/09/2020 - 09:01:42: [admin.amxx] Login: "Fisher<174><STEAM_0:0:651995471><>" kicked due to invalid password (account "Fisher") (address "95.188.46.60")
+L 05/09/2020 - 09:01:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:01:42: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:01:55: [admin.amxx] Login: "Fisher<177><STEAM_0:0:651995471><>" kicked due to invalid password (account "Fisher") (address "95.188.46.60")
+L 05/09/2020 - 09:02:58: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:02:58: [admin.amxx] Login: "Orange<178><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:03:51: [admin.amxx] Login: "Fisher<179><STEAM_0:0:651995471><>" became an admin (account "Fisher") (access "cdef") (address "95.188.46.60")
+L 05/09/2020 - 09:11:36: [admincmd.amxx] Kick: "Rurik<175><STEAM_0:0:103305525><>" kick "Orange<178><STEAM_0:1:169991837><>" (reason "лагает")
+L 05/09/2020 - 09:11:38: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:11:38: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:14:39: -------- Mapchange to zm_ice_attack2 --------
+L 05/09/2020 - 09:14:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:14:40: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/09/2020 - 09:14:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:14:40: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:14:40: [admin.amxx] Login: "Fisher<179><STEAM_0:0:651995471><>" became an admin (account "Fisher") (access "cdef") (address "95.188.46.60")
+L 05/09/2020 - 09:14:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:14:42: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:19:57: -------- Mapchange to zm_ice_attack2 --------
+L 05/09/2020 - 09:19:58: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:19:58: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 09:19:58: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:19:58: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 09:19:58: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:19:58: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdefu") (address "94.180.105.215")
+L 05/09/2020 - 09:21:43: -------- Mapchange to zm_ice_attack2 --------
+L 05/09/2020 - 09:21:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:21:44: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefou") (address "46.118.144.114")
+L 05/09/2020 - 09:21:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:21:44: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefo") (address "193.138.145.4")
+L 05/09/2020 - 09:21:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:21:44: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdefo") (address "94.180.105.215")
+L 05/09/2020 - 09:29:03: -------- Mapchange to zm_ice_attack2 --------
+L 05/09/2020 - 09:29:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:29:04: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 09:29:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:29:04: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:29:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:29:04: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:35:07: -------- Mapchange to zm_ice_attack2 --------
+L 05/09/2020 - 09:35:08: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:35:08: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 09:35:08: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:35:08: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:35:08: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:35:08: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:35:47: [admincmd.amxx] Cmd: "Rurik<175><STEAM_0:0:103305525><>" changelevel "zm_texas_night"
+L 05/09/2020 - 09:35:49: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 09:35:50: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:35:50: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:35:50: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:35:50: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:37:52: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 09:37:53: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:37:53: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:37:53: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:37:53: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:38:21: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 09:39:03: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 09:39:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:39:04: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 09:39:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:39:04: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:39:05: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:39:05: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:40:44: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 09:40:45: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:40:45: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 09:40:45: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:40:45: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:40:45: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:40:45: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:55:41: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 09:55:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:55:42: [admin.amxx] Login: "DeathBlood<169><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 09:55:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:55:42: [admin.amxx] Login: "Orange<181><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 09:55:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:55:42: [admin.amxx] Login: "Rurik<175><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 09:55:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:55:44: [admin.amxx] Login: "DeathBlood<184><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 09:55:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 09:55:44: [admin.amxx] Login: "Rurik<185><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 10:07:44: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 10:09:13: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:11:59: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:13:09: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:13:10: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 10:13:15: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:13:15: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:14:45: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:14:46: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:14:46: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:15:35: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:15:35: [admin.amxx] Login: "Orange<2><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 10:17:20: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:17:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 10:17:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:17:21: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 10:17:26: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:17:26: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:19:14: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:22:01: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:22:02: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 10:22:06: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:22:06: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:22:07: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:22:07: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:23:28: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:23:28: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:26:35: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:26:36: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 10:26:41: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:26:41: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:27:35: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:27:35: [admin.amxx] Login: "Orange<2><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 10:39:04: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:39:04: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 10:39:07: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:39:07: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 10:39:12: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:39:12: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:44:29: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:44:30: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 10:44:32: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:44:32: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 10:44:36: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:44:36: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:53:17: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:53:17: [admin.amxx] Login: "Rurik<3><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 10:57:26: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:57:27: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:57:27: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:57:27: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:57:27: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 10:57:27: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:57:27: [admin.amxx] Login: "Rurik<3><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 10:59:18: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 10:59:19: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:59:19: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 10:59:19: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:59:19: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 10:59:19: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 10:59:19: [admin.amxx] Login: "Rurik<3><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 11:00:41: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 11:00:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:00:42: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:00:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:00:42: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:00:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:00:42: [admin.amxx] Login: "Rurik<3><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 11:01:28: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 11:01:29: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:01:29: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:01:29: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:01:29: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:01:29: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:01:29: [admin.amxx] Login: "Rurik<3><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 11:05:41: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 11:05:44: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 11:05:46: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:05:46: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:05:51: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:05:51: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:07:38: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 11:07:41: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:07:41: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:07:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:07:42: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:08:37: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:08:37: [admin.amxx] Login: "Rurik<3><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 11:17:22: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:17:22: [admin.amxx] Login: "Rurik<8><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 11:23:54: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:23:54: [admin.amxx] Login: "Rurik<9><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 11:31:53: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 11:31:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:31:56: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:31:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:31:56: [admin.amxx] Login: "Orange<10><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:37:00: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 11:37:10: [rockthevote_custom.amxx] Map will be changed to zm_minecraft.
+L 05/09/2020 - 11:37:15: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 11:37:48: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" changelevel "zm_minecraft"
+L 05/09/2020 - 11:37:50: -------- Mapchange to zm_minecraft --------
+L 05/09/2020 - 11:37:54: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:37:54: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:37:54: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:37:54: [admin.amxx] Login: "Orange<10><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:42:55: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 11:43:05: [rockthevote_custom.amxx] Map will be changed to zm_assault_attack.
+L 05/09/2020 - 11:43:10: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/09/2020 - 11:43:28: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" changelevel "zm_assault_attack"
+L 05/09/2020 - 11:43:30: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 11:43:33: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:43:33: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:43:33: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:43:33: [admin.amxx] Login: "Orange<10><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:44:32: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 11:44:34: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:44:34: [admin.amxx] Login: "Orange<10><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:44:34: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:44:34: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:44:38: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:44:38: [admin.amxx] Login: "Orange<11><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:50:41: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 11:50:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:50:44: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:50:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:50:44: [admin.amxx] Login: "Orange<11><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdef") (address "193.138.145.4")
+L 05/09/2020 - 11:58:41: [admin.amxx] Login: "DeathBlood<13><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:58:46: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 11:58:49: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:58:49: [admin.amxx] Login: "DeathBlood<13><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:59:01: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:59:01: [admin.amxx] Login: "Orange<15><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 11:59:40: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" pause server
+L 05/09/2020 - 11:59:41: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" unpause server
+L 05/09/2020 - 11:59:41: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" pause server
+L 05/09/2020 - 11:59:49: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:59:49: [admin.amxx] Login: "DeathBlood<16><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 11:59:51: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:59:51: [admin.amxx] Login: "Orange<17><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 11:59:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 11:59:56: [admin.amxx] Login: "DeathBlood<18><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 12:00:17: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" unpause server
+L 05/09/2020 - 12:02:08: [plmenu.amxx] Cmd: "Orange<17><STEAM_0:1:169991837><>" slay "DeathBlood<18><STEAM_0:0:921993139><>"
+L 05/09/2020 - 12:06:19: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 12:06:30: [rockthevote_custom.amxx] Map will be changed to zm_assault_attack.
+L 05/09/2020 - 12:06:35: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_toxic_house2
+L 05/09/2020 - 12:07:21: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 12:07:23: New section, multiline unterminated (file "cstrike/addons/amxmodx/data/lang/nademodes.txt" line 201)
+L 05/09/2020 - 12:07:24: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:07:24: [admin.amxx] Login: "DeathBlood<18><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 12:07:24: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:07:24: [admin.amxx] Login: "Orange<17><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 12:19:37: [plmenu.amxx] Cmd: "DeathBlood<18><STEAM_0:0:921993139><>" slay "Orange<17><STEAM_0:1:169991837><>"
+L 05/09/2020 - 12:19:38: [plmenu.amxx] Cmd: "DeathBlood<18><STEAM_0:0:921993139><>" slay "DeathBlood<18><STEAM_0:0:921993139><>"
+L 05/09/2020 - 12:20:47: [plmenu.amxx] Cmd: "DeathBlood<18><STEAM_0:0:921993139><>" slay "DeathBlood<18><STEAM_0:0:921993139><>"
+L 05/09/2020 - 12:31:39: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 12:31:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:31:42: [admin.amxx] Login: "DeathBlood<18><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 12:31:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:31:42: [admin.amxx] Login: "Orange<17><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 12:31:45: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:31:45: [admin.amxx] Login: "Orange<25><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 12:34:05: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 12:34:08: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:34:08: [admin.amxx] Login: "DeathBlood<18><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 12:34:08: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:34:08: [admin.amxx] Login: "Orange<25><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 12:34:46: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 12:34:49: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:34:49: [admin.amxx] Login: "DeathBlood<18><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 12:34:49: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:34:49: [admin.amxx] Login: "Orange<25><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 12:35:18: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 12:35:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:35:21: [admin.amxx] Login: "DeathBlood<18><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 12:35:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:35:21: [admin.amxx] Login: "Orange<25><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 12:43:53: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 12:43:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:43:56: [admin.amxx] Login: "DeathBlood<18><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 12:43:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:43:56: [admin.amxx] Login: "Orange<25><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 12:56:50: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 12:56:50: [admin.amxx] Login: "DeathBlood<31><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 13:06:25: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 13:08:15: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 13:17:45: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 13:19:20: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 13:22:38: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 13:32:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 13:32:56: [admin.amxx] Login: "Orange<51><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 13:37:04: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 13:37:07: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 13:37:26: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 13:37:26: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 13:51:18: [admin.amxx] Login: "DeathBlood<6><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 13:51:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 13:51:21: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 13:58:36: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 13:58:39: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 13:58:39: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 13:58:39: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 13:58:39: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 13:59:37: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 13:59:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 13:59:40: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 13:59:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 13:59:40: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:01:17: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 14:01:20: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:01:20: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:01:20: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:01:20: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:02:27: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 14:02:30: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:02:30: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:02:30: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:02:30: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:04:29: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 14:04:32: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:04:32: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:04:32: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:04:32: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:05:39: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 14:05:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:05:42: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:05:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:05:42: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:06:54: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 14:06:57: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:06:57: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:06:57: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:06:57: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:26:37: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:26:37: [admin.amxx] Login: "DeathBlood<14><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:32:04: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 14:32:06: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 14:32:18: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:32:18: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:32:20: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:32:20: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:32:35: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:32:35: [admin.amxx] Login: "Orange<3><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:32:38: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:32:38: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:37:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 14:37:46: [rockthevote_custom.amxx] Map will be changed to zm_dust2_2x2.
+L 05/09/2020 - 14:37:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack2
+L 05/09/2020 - 14:38:39: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" changelevel "zm_dust2_2x2"
+L 05/09/2020 - 14:38:42: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 14:38:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:38:44: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:38:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:38:44: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:39:18: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:39:18: [admin.amxx] Login: "DeathBlood<7><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:41:17: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 14:41:20: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:41:20: [admin.amxx] Login: "DeathBlood<7><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:41:20: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:41:20: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:41:48: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 14:41:51: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:41:51: [admin.amxx] Login: "DeathBlood<7><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:41:51: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:41:51: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:45:09: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 14:45:12: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:45:12: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:45:12: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:45:12: [admin.amxx] Login: "DeathBlood<7><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:46:17: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 14:46:20: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:46:20: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:46:20: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:46:20: [admin.amxx] Login: "DeathBlood<7><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:46:28: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:46:28: [admin.amxx] Login: "DeathBlood<8><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:47:37: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 14:47:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:47:40: [admin.amxx] Login: "DeathBlood<8><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:47:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:47:40: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:48:03: [mapsmenu.amxx] Cmd: "DeathBlood<8><STEAM_0:0:921993139><>" changelevel "zm_ice_attack"
+L 05/09/2020 - 14:48:05: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 14:48:08: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:48:08: [admin.amxx] Login: "DeathBlood<8><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:48:09: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:48:09: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 14:56:45: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 14:56:47: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:56:47: [admin.amxx] Login: "DeathBlood<8><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 14:56:47: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 14:56:47: [admin.amxx] Login: "Orange<4><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 15:22:05: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:22:05: [admin.amxx] Login: "Rurik<10><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 15:22:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:22:40: [admin.amxx] Login: "Orange<11><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 15:25:01: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 15:25:16: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 15:27:09: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 15:27:12: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:27:12: [admin.amxx] Login: "Rurik<10><STEAM_0:0:103305525><>" became an admin (account "Rurik") (access "cdef") (address "94.180.105.215")
+L 05/09/2020 - 15:27:41: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:27:41: [admin.amxx] Login: "DeathBlood<12><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 15:29:59: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:29:59: [admin.amxx] Login: "Orange<13><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 15:36:19: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 15:36:22: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:36:22: [admin.amxx] Login: "DeathBlood<12><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 15:36:22: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:36:22: [admin.amxx] Login: "Orange<13><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 15:36:22: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:54:46: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 15:54:46: [admin.amxx] Login: "DeathBlood<16><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:04:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 16:04:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_fun_world_2
+L 05/09/2020 - 16:06:41: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 16:06:45: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:06:45: [admin.amxx] Login: "DeathBlood<16><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:06:45: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:06:46: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:06:46: [admin.amxx] Login: "DeathBlood<17><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:06:47: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:08:21: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:08:21: [admin.amxx] Login: "DeathBlood<26><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:08:23: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:08:23: [admin.amxx] Login: "DeathBlood<27><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:09:16: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 16:09:19: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:09:19: [admin.amxx] Login: "DeathBlood<27><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:09:19: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:09:44: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:09:44: [admin.amxx] Login: "DeathBlood<28><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:09:50: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 16:09:53: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:09:53: [admin.amxx] Login: "DeathBlood<28><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:09:53: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:11:30: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:11:30: [admin.amxx] Login: "Orange<33><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:11:33: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:11:33: [admin.amxx] Login: "Orange<34><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:15:23: [admin.amxx] Login: "Orange<35><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:15:25: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:15:25: [admin.amxx] Login: "Orange<37><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:18:58: [admin.amxx] Login: "DeathBlood<36><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:18:59: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:18:59: [admin.amxx] Login: "DeathBlood<38><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:38:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 16:38:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_texas_night
+L 05/09/2020 - 16:39:16: [rockthevote_custom.amxx] Map will be changed to zm_texas_night.
+L 05/09/2020 - 16:40:09: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 16:40:12: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:40:12: [admin.amxx] Login: "Orange<37><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:40:12: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:40:12: [admin.amxx] Login: "DeathBlood<38><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:40:15: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:40:15: [admin.amxx] Login: "DeathBlood<42><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:40:30: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:40:30: [admin.amxx] Login: "Orange<44><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:41:42: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:41:42: [admin.amxx] Login: "Orange<45><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:41:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:41:56: [admin.amxx] Login: "Orange<46><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:41:58: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:41:58: [admin.amxx] Login: "Orange<47><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:44:35: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:44:35: [admin.amxx] Login: "DeathBlood<51><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:45:08: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 16:45:11: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:45:11: [admin.amxx] Login: "DeathBlood<51><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:50:00: [admin.amxx] Login: "Orange<50><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:50:02: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:50:02: [admin.amxx] Login: "Orange<54><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:53:41: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 16:53:51: [rockthevote_custom.amxx] Map will be changed to zm_assault_attack.
+L 05/09/2020 - 16:53:56: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_toxic_house2
+L 05/09/2020 - 16:56:33: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" changelevel "zm_assault_attack"
+L 05/09/2020 - 16:56:35: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 16:56:38: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:56:38: [admin.amxx] Login: "DeathBlood<51><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:56:38: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:56:38: [admin.amxx] Login: "Orange<54><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:58:04: [mapsmenu.amxx] Cmd: "DeathBlood<51><STEAM_0:0:921993139><>" changelevel "zm_2010"
+L 05/09/2020 - 16:58:06: -------- Mapchange to zm_2010 --------
+L 05/09/2020 - 16:58:09: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:58:09: [admin.amxx] Login: "DeathBlood<51><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:58:09: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:58:09: [admin.amxx] Login: "Orange<54><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 16:58:10: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:58:10: [admin.amxx] Login: "DeathBlood<59><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 16:58:11: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 16:58:11: [admin.amxx] Login: "Orange<61><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 17:06:51: -------- Mapchange to zm_2010 --------
+L 05/09/2020 - 17:06:54: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 17:06:54: [admin.amxx] Login: "DeathBlood<59><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:06:54: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 17:06:54: [admin.amxx] Login: "Orange<61><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 17:06:55: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 17:06:55: [admin.amxx] Login: "DeathBlood<65><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:07:50: [plmenu.amxx] Cmd: "DeathBlood<65><STEAM_0:0:921993139><>" slay "Orange<61><STEAM_0:1:169991837><>"
+L 05/09/2020 - 17:10:26: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 17:10:28: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 17:10:58: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 17:11:01: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/09/2020 - 17:11:02: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 17:11:02: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 17:11:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 17:11:04: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:12:59: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/09/2020 - 17:12:59: [admin.amxx] Login: "DeathBlood<6><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:13:15: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 17:13:19: [admin.amxx] Login: "DeathBlood<6><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:13:19: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 17:25:57: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:32:34: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 17:32:37: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:32:37: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 17:33:36: [mapsmenu.amxx] Cmd: "DeathBlood<11><STEAM_0:0:921993139><>" changelevel "zm_dust2_2x2"
+L 05/09/2020 - 17:33:38: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 17:33:41: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:33:42: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 17:38:29: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 17:38:44: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 17:40:38: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 17:48:14: [plmenu.amxx] Ban: "DeathBlood<11><STEAM_0:0:921993139><>" ban and kick "хакер<27><STEAM_0:0:1861956792><>" (minutes "0")
+L 05/09/2020 - 17:56:31: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 17:56:35: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 17:56:35: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 17:57:37: [plmenu.amxx] Cmd: "DeathBlood<11><STEAM_0:0:921993139><>" slay "DeathBlood<11><STEAM_0:0:921993139><>"
+L 05/09/2020 - 18:08:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 18:08:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/09/2020 - 18:10:49: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 18:12:21: [plmenu.amxx] Cmd: "DeathBlood<11><STEAM_0:0:921993139><>" slay "DeathBlood<11><STEAM_0:0:921993139><>"
+L 05/09/2020 - 18:12:58: [plmenu.amxx] Kick: "DeathBlood<11><STEAM_0:0:921993139><>" kick "(1)[cs-likes.ru] build RUS<58><STEAM_0:0:1179351571><>"
+L 05/09/2020 - 18:13:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 18:13:41: [rockthevote_custom.amxx] Map will be changed to zm_dust2_2x2.
+L 05/09/2020 - 18:13:46: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_fun_world_2
+L 05/09/2020 - 18:14:26: [plmenu.amxx] Cmd: "DeathBlood<11><STEAM_0:0:921993139><>" slay "(1)[cs-likes.ru] build RUS<76><STEAM_0:0:1179351571><>"
+L 05/09/2020 - 18:16:13: [admincmd.amxx] Cmd: "[ZM] Бешеный Зомби <0><><>" changelevel "zm_dust2_2x2"
+L 05/09/2020 - 18:16:15: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 18:16:19: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 18:16:19: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 18:17:42: [mapsmenu.amxx] Cmd: "DeathBlood<11><STEAM_0:0:921993139><>" changelevel "zm_fun_world_2"
+L 05/09/2020 - 18:17:45: -------- Mapchange to zm_fun_world_2 --------
+L 05/09/2020 - 18:17:48: [admin.amxx] Login: "DeathBlood<11><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 18:17:48: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 18:38:51: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 18:39:06: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft
+L 05/09/2020 - 18:41:01: -------- Mapchange to zm_minecraft --------
+L 05/09/2020 - 18:43:12: [admin.amxx] Login: "DeathBlood<120><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 18:44:49: [plmenu.amxx] Ban: "DeathBlood<120><STEAM_0:0:921993139><>" ban and kick "Сайтама<90><STEAM_0:0:1694841979><>" (minutes "0")
+L 05/09/2020 - 18:46:02: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 18:46:17: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_texas_night
+L 05/09/2020 - 18:48:09: -------- Mapchange to zm_texas_night --------
+L 05/09/2020 - 18:48:12: [admin.amxx] Login: "DeathBlood<120><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 18:48:12: [admin.amxx] Login: "Orange<1><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 19:09:03: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 19:09:18: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_assault_attack
+L 05/09/2020 - 19:11:12: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 19:16:41: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 19:16:56: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_assault_attack
+L 05/09/2020 - 19:17:01: [admin.amxx] Login: "DeathBlood<144><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 19:22:26: [mapsmenu.amxx] Cmd: "DeathBlood<144><STEAM_0:0:921993139><>" changelevel "zm_ice_attack"
+L 05/09/2020 - 19:22:28: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 19:22:31: [admin.amxx] Login: "DeathBlood<144><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 19:39:14: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 19:39:29: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 19:41:23: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 19:51:00: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 19:51:15: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 19:53:10: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 20:08:26: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdefu") (address "46.118.144.114")
+L 05/09/2020 - 20:09:25: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 20:09:40: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/09/2020 - 20:11:34: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 20:21:12: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 20:21:27: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/09/2020 - 20:23:51: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 20:39:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 20:39:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft
+L 05/09/2020 - 20:41:45: -------- Mapchange to zm_minecraft --------
+L 05/09/2020 - 20:51:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 20:52:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft
+L 05/09/2020 - 20:54:33: -------- Mapchange to zm_minecraft --------
+L 05/09/2020 - 21:09:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 21:10:02: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_assault_attack
+L 05/09/2020 - 21:11:56: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 21:16:18: [admin.amxx] Login: "Orange<185><STEAM_0:1:169991837><>" became an admin (account "Orange") (access "cdefu") (address "193.138.145.4")
+L 05/09/2020 - 21:39:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 21:40:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 21:42:07: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 21:43:50: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 21:44:05: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_assault_attack
+L 05/09/2020 - 21:46:01: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 22:10:09: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 22:10:24: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/09/2020 - 22:12:18: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 22:14:03: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 22:14:18: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 22:37:29: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 22:40:20: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 22:40:35: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft
+L 05/09/2020 - 22:42:29: -------- Mapchange to zm_minecraft --------
+L 05/09/2020 - 23:05:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 23:05:46: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/09/2020 - 23:10:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 23:10:46: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_assault_attack
+L 05/09/2020 - 23:12:40: -------- Mapchange to zm_assault_attack --------
+L 05/09/2020 - 23:28:57: -------- Mapchange to zm_ice_attack --------
+L 05/09/2020 - 23:40:42: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 23:40:57: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust2_2x2
+L 05/09/2020 - 23:42:51: -------- Mapchange to zm_dust2_2x2 --------
+L 05/09/2020 - 23:56:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/09/2020 - 23:57:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_minecraft

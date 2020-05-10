@@ -1,0 +1,461 @@
+L 05/09/2020 - 10:04:23: Start of error session.
+L 05/09/2020 - 10:04:23: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 10:04:23: Invalid CVAR pointer
+L 05/09/2020 - 10:04:23: [AMXX] Run time error 10 (plugin "zp_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:04:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:15:52: Start of error session.
+L 05/09/2020 - 10:15:52: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 10:15:52: Invalid CVAR pointer
+L 05/09/2020 - 10:15:52: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:15:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:16:01: Invalid CVAR pointer
+L 05/09/2020 - 10:16:01: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:16:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:16:59: Invalid CVAR pointer
+L 05/09/2020 - 10:16:59: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:16:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:17:10: Invalid CVAR pointer
+L 05/09/2020 - 10:17:10: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:17:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:22:37: Start of error session.
+L 05/09/2020 - 10:22:37: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 10:22:37: Invalid CVAR pointer
+L 05/09/2020 - 10:22:37: [AMXX] Run time error 10 (plugin "zp_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:22:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:22:46: Invalid CVAR pointer
+L 05/09/2020 - 10:22:46: [AMXX] Run time error 10 (plugin "zp_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:22:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:23:47: Invalid CVAR pointer
+L 05/09/2020 - 10:23:47: [AMXX] Run time error 10 (plugin "zp_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:23:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:26:57: Start of error session.
+L 05/09/2020 - 10:26:57: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 10:26:57: Invalid CVAR pointer
+L 05/09/2020 - 10:26:57: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:26:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:27:11: Invalid CVAR pointer
+L 05/09/2020 - 10:27:11: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:27:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:28:55: Invalid CVAR pointer
+L 05/09/2020 - 10:28:55: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:28:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:29:36: Invalid CVAR pointer
+L 05/09/2020 - 10:29:36: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:29:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:31:59: Invalid CVAR pointer
+L 05/09/2020 - 10:31:59: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:31:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:35:22: Invalid CVAR pointer
+L 05/09/2020 - 10:35:22: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:35:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:36:54: Invalid CVAR pointer
+L 05/09/2020 - 10:36:54: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 10:36:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:45:20: Start of error session.
+L 05/09/2020 - 10:45:20: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 10:45:20: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 10:45:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:49:01: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 10:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:52:42: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 10:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:56:23: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 10:56:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:57:51: Start of error session.
+L 05/09/2020 - 10:57:51: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 10:57:51: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 10:57:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 10:59:43: Start of error session.
+L 05/09/2020 - 10:59:43: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 10:59:43: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 10:59:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 11:03:25: Start of error session.
+L 05/09/2020 - 11:03:25: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:03:25: Invalid CVAR pointer
+L 05/09/2020 - 11:03:25: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 11:03:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 11:03:40: Invalid CVAR pointer
+L 05/09/2020 - 11:03:40: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 11:03:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 11:03:46: Invalid CVAR pointer
+L 05/09/2020 - 11:03:46: [AMXX] Run time error 10 (plugin "zp_extra_antidote.amxx") (native "set_pcvar_num") - debug not enabled!
+L 05/09/2020 - 11:03:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 11:05:44: Start of error session.
+L 05/09/2020 - 11:05:44: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:05:44: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 11:07:40: Start of error session.
+L 05/09/2020 - 11:07:40: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:07:40: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 11:31:55: Start of error session.
+L 05/09/2020 - 11:31:55: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:31:55: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 11:37:53: Start of error session.
+L 05/09/2020 - 11:37:53: Info (map "zm_minecraft") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:37:53: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 11:43:32: Start of error session.
+L 05/09/2020 - 11:43:32: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:43:32: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 11:44:33: Start of error session.
+L 05/09/2020 - 11:44:33: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:44:33: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 11:50:43: Start of error session.
+L 05/09/2020 - 11:50:43: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:50:43: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 11:58:49: Start of error session.
+L 05/09/2020 - 11:58:49: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 11:58:49: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 12:07:23: Start of error session.
+L 05/09/2020 - 12:07:23: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 12:07:23: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 12:07:38: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:07:38: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:07:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:07:46: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:07:46: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:07:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:07:52: [ENGINE] Invalid entity 64
+L 05/09/2020 - 12:07:52: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:07:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:07:54: [ENGINE] Invalid entity 62
+L 05/09/2020 - 12:07:54: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:07:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:08:53: [ENGINE] Invalid entity 55
+L 05/09/2020 - 12:08:53: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:08:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:11:25: [ENGINE] Invalid entity 62
+L 05/09/2020 - 12:11:25: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:11:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:11:33: [ENGINE] Invalid entity 63
+L 05/09/2020 - 12:11:33: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:11:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:12:20: [ENGINE] Invalid entity 66
+L 05/09/2020 - 12:12:20: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:12:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:14:08: [ENGINE] Invalid entity 62
+L 05/09/2020 - 12:14:08: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:14:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:15:25: [ENGINE] Invalid entity 62
+L 05/09/2020 - 12:15:25: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:15:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:15:44: [ENGINE] Invalid entity 62
+L 05/09/2020 - 12:15:44: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:15:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:16:40: [ENGINE] Invalid entity 57
+L 05/09/2020 - 12:16:40: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:16:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:17:27: [ENGINE] Invalid entity 61
+L 05/09/2020 - 12:17:27: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:17:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:18:22: [ENGINE] Invalid entity 57
+L 05/09/2020 - 12:18:22: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:18:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:19:52: [ENGINE] Invalid entity 168
+L 05/09/2020 - 12:19:52: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:19:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:21:32: [ENGINE] Invalid entity 69
+L 05/09/2020 - 12:21:32: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:21:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:21:51: [ENGINE] Invalid entity 59
+L 05/09/2020 - 12:21:51: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:21:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:22:01: [ENGINE] Invalid entity 59
+L 05/09/2020 - 12:22:01: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:22:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:23:46: [ENGINE] Invalid entity 65
+L 05/09/2020 - 12:23:46: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:23:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:24:01: [ENGINE] Invalid entity 64
+L 05/09/2020 - 12:24:01: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:24:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:24:12: [ENGINE] Invalid entity 67
+L 05/09/2020 - 12:24:12: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:25:07: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:25:07: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:25:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:25:15: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:25:15: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:25:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:25:24: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:25:24: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:25:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:25:38: [ENGINE] Invalid entity 69
+L 05/09/2020 - 12:25:38: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:30:15: [ENGINE] Invalid entity 59
+L 05/09/2020 - 12:30:15: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:30:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:31:41: Start of error session.
+L 05/09/2020 - 12:31:41: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 12:31:41: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 12:32:20: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:32:20: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:32:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:32:50: [ENGINE] Invalid entity 56
+L 05/09/2020 - 12:32:50: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:32:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:33:15: [ENGINE] Invalid entity 54
+L 05/09/2020 - 12:33:15: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:33:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:34:07: Start of error session.
+L 05/09/2020 - 12:34:07: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 12:34:07: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 12:34:36: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:34:36: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:34:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:34:48: Start of error session.
+L 05/09/2020 - 12:34:48: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 12:34:48: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 12:35:07: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:35:07: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:35:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:35:20: Start of error session.
+L 05/09/2020 - 12:35:20: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 12:35:20: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 12:35:46: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:35:46: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:35:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:35:55: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:35:55: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:35:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:36:54: [ENGINE] Invalid entity 59
+L 05/09/2020 - 12:36:54: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:36:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:37:01: [ENGINE] Invalid entity 57
+L 05/09/2020 - 12:37:01: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:37:43: [ENGINE] Invalid entity 58
+L 05/09/2020 - 12:37:43: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:37:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:43:55: Start of error session.
+L 05/09/2020 - 12:43:55: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 12:43:55: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 12:44:07: [ENGINE] Invalid entity 69
+L 05/09/2020 - 12:44:07: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:44:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:45:10: [ENGINE] Invalid entity 68
+L 05/09/2020 - 12:45:10: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:45:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:45:16: [ENGINE] Invalid entity 56
+L 05/09/2020 - 12:45:16: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 12:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 12:47:57: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 12:47:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:00:09: [ENGINE] Invalid entity 57
+L 05/09/2020 - 13:00:09: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:00:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:00:36: [ENGINE] Invalid entity 55
+L 05/09/2020 - 13:00:36: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:00:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:00:40: [ENGINE] Invalid entity 55
+L 05/09/2020 - 13:00:40: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:00:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:01:43: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 13:01:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:01:46: [ENGINE] Invalid entity 55
+L 05/09/2020 - 13:01:46: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:01:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:01:49: [ENGINE] Invalid entity 55
+L 05/09/2020 - 13:01:49: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:01:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:02:54: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 13:02:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:03:42: [ENGINE] Invalid entity 56
+L 05/09/2020 - 13:03:42: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:03:48: [ENGINE] Invalid entity 55
+L 05/09/2020 - 13:03:48: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:03:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:04:21: [ENGINE] Invalid entity 55
+L 05/09/2020 - 13:04:21: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:04:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:06:27: Start of error session.
+L 05/09/2020 - 13:06:27: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 13:06:27: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 13:07:21: [ENGINE] Invalid entity 57
+L 05/09/2020 - 13:07:21: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "entity_get_vector") - debug not enabled!
+L 05/09/2020 - 13:07:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 13:08:17: Start of error session.
+L 05/09/2020 - 13:08:17: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 13:08:17: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 13:17:47: Start of error session.
+L 05/09/2020 - 13:17:47: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 13:17:47: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 13:19:22: Start of error session.
+L 05/09/2020 - 13:19:22: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 13:19:22: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 13:22:39: Start of error session.
+L 05/09/2020 - 13:22:39: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 13:22:39: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 13:37:06: Start of error session.
+L 05/09/2020 - 13:37:06: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 13:37:06: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 13:58:38: Start of error session.
+L 05/09/2020 - 13:58:38: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 13:58:38: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 13:59:39: Start of error session.
+L 05/09/2020 - 13:59:39: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 13:59:39: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:01:19: Start of error session.
+L 05/09/2020 - 14:01:19: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:01:19: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:02:29: Start of error session.
+L 05/09/2020 - 14:02:29: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:02:29: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:04:31: Start of error session.
+L 05/09/2020 - 14:04:31: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:04:31: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:05:41: Start of error session.
+L 05/09/2020 - 14:05:41: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:05:41: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:06:56: Start of error session.
+L 05/09/2020 - 14:06:56: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:06:56: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:32:06: Start of error session.
+L 05/09/2020 - 14:32:06: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:32:06: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:38:43: Start of error session.
+L 05/09/2020 - 14:38:43: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:38:43: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:41:19: Start of error session.
+L 05/09/2020 - 14:41:19: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:41:19: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:41:50: Start of error session.
+L 05/09/2020 - 14:41:50: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:41:50: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:45:11: Start of error session.
+L 05/09/2020 - 14:45:11: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:45:11: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:45:59: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 14:45:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 14:46:19: Start of error session.
+L 05/09/2020 - 14:46:19: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:46:19: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:47:39: Start of error session.
+L 05/09/2020 - 14:47:39: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:47:39: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:48:07: Start of error session.
+L 05/09/2020 - 14:48:07: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:48:07: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 14:56:46: Start of error session.
+L 05/09/2020 - 14:56:46: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 14:56:46: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 15:27:11: Start of error session.
+L 05/09/2020 - 15:27:11: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 15:27:11: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 15:36:21: Start of error session.
+L 05/09/2020 - 15:36:21: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 15:36:21: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 16:06:44: Start of error session.
+L 05/09/2020 - 16:06:44: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 16:06:44: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 16:09:18: Start of error session.
+L 05/09/2020 - 16:09:18: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 16:09:18: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 16:09:52: Start of error session.
+L 05/09/2020 - 16:09:52: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 16:09:52: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 16:40:11: Start of error session.
+L 05/09/2020 - 16:40:11: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 16:40:11: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 16:45:10: Start of error session.
+L 05/09/2020 - 16:45:10: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 16:45:10: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 16:56:37: Start of error session.
+L 05/09/2020 - 16:56:37: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 16:56:37: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 16:58:08: Start of error session.
+L 05/09/2020 - 16:58:08: Info (map "zm_2010") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 16:58:08: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 17:06:53: Start of error session.
+L 05/09/2020 - 17:06:53: Info (map "zm_2010") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 17:06:53: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 17:10:28: Start of error session.
+L 05/09/2020 - 17:10:28: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 17:10:28: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 17:11:01: Start of error session.
+L 05/09/2020 - 17:11:01: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 17:11:01: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 17:13:18: Start of error session.
+L 05/09/2020 - 17:13:18: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 17:13:18: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 17:32:36: Start of error session.
+L 05/09/2020 - 17:32:36: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 17:32:36: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 17:33:40: Start of error session.
+L 05/09/2020 - 17:33:40: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 17:33:40: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 17:40:40: Start of error session.
+L 05/09/2020 - 17:40:40: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 17:40:40: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 17:56:34: Start of error session.
+L 05/09/2020 - 17:56:34: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 17:56:34: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 18:10:51: Start of error session.
+L 05/09/2020 - 18:10:51: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 18:10:51: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 18:16:18: Start of error session.
+L 05/09/2020 - 18:16:18: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 18:16:18: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 18:17:47: Start of error session.
+L 05/09/2020 - 18:17:47: Info (map "zm_fun_world_2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 18:17:47: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 18:41:03: Start of error session.
+L 05/09/2020 - 18:41:03: Info (map "zm_minecraft") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 18:41:03: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 18:48:11: Start of error session.
+L 05/09/2020 - 18:48:11: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 18:48:11: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 19:11:14: Start of error session.
+L 05/09/2020 - 19:11:14: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 19:11:14: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 19:22:30: Start of error session.
+L 05/09/2020 - 19:22:30: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 19:22:30: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 19:41:25: Start of error session.
+L 05/09/2020 - 19:41:25: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 19:41:25: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 19:53:12: Start of error session.
+L 05/09/2020 - 19:53:12: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 19:53:12: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 20:06:18: [AMXX] Run time error 4 (plugin "zp_server_addon_countdown.amxx") - debug not enabled!
+L 05/09/2020 - 20:06:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/09/2020 - 20:11:36: Start of error session.
+L 05/09/2020 - 20:11:36: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 20:11:36: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 20:23:53: Start of error session.
+L 05/09/2020 - 20:23:53: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 20:23:53: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 20:41:47: Start of error session.
+L 05/09/2020 - 20:41:47: Info (map "zm_minecraft") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 20:41:47: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 20:54:35: Start of error session.
+L 05/09/2020 - 20:54:35: Info (map "zm_minecraft") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 20:54:35: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 21:11:58: Start of error session.
+L 05/09/2020 - 21:11:58: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 21:11:58: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 21:42:09: Start of error session.
+L 05/09/2020 - 21:42:09: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 21:42:09: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 21:46:03: Start of error session.
+L 05/09/2020 - 21:46:03: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 21:46:03: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 22:12:20: Start of error session.
+L 05/09/2020 - 22:12:20: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 22:12:20: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 22:37:31: Start of error session.
+L 05/09/2020 - 22:37:31: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 22:37:31: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 22:42:31: Start of error session.
+L 05/09/2020 - 22:42:31: Info (map "zm_minecraft") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 22:42:31: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 23:12:42: Start of error session.
+L 05/09/2020 - 23:12:42: Info (map "zm_assault_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 23:12:42: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 23:28:58: Start of error session.
+L 05/09/2020 - 23:28:58: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 23:28:58: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")
+L 05/09/2020 - 23:42:53: Start of error session.
+L 05/09/2020 - 23:42:53: Info (map "zm_dust2_2x2") (file "addons/amxmodx/logs/error_20200509.log")
+L 05/09/2020 - 23:42:53: [AMXX] Invalid Plugin (plugin "zp50_item_antidote_gun.amxx")

@@ -647,3 +647,83 @@ L 05/07/2020 - 22:35:41: [mapchooser.amxx] Vote: Voting for the nextmap finished
 L 05/07/2020 - 22:37:00: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
 L 05/07/2020 - 22:37:00: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
 L 05/07/2020 - 22:37:35: -------- Mapchange to zm_dust2_2x2 --------
+L 05/07/2020 - 22:44:01: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 22:44:02: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 22:44:22: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 22:44:22: [admin.amxx] Login: "DeathBlood<501><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/07/2020 - 22:44:33: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 22:44:33: [admin.amxx] Login: "DeathBlood<502><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "abcdefghijklmnopqrstu") (address "46.118.144.114")
+L 05/07/2020 - 22:44:46: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 22:44:46: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 22:47:26: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 22:47:27: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 22:47:30: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 22:47:30: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 22:47:30: -------- Mapchange to zm_dust2_2x2 --------
+L 05/07/2020 - 22:47:48: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 22:47:48: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 22:49:16: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 22:49:17: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 22:49:22: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 22:49:22: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 22:58:58: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 22:58:59: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 22:59:04: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 22:59:04: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 22:59:28: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 22:59:29: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 22:59:32: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 22:59:32: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:00:04: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:00:05: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 23:00:07: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:00:07: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:00:46: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:00:47: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 23:00:49: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:00:49: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:07:52: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:07:53: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 23:07:58: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:07:58: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:15:30: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/07/2020 - 23:15:45: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 05/07/2020 - 23:27:36: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:27:37: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 23:27:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/zp_bank.txt
+L 05/07/2020 - 23:27:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:27:40: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:28:01: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:28:01: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:29:48: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:29:48: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:31:14: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:31:15: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:31:15: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:33:00: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:33:01: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:33:01: [admin.amxx] Login: "DeathBlood<3><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:33:25: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:33:25: [admin.amxx] Login: "DeathBlood<4><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:33:58: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:33:58: [admin.amxx] Login: "DeathBlood<5><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:34:11: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:34:12: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:34:12: [admin.amxx] Login: "DeathBlood<5><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:51:51: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:51:52: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 23:51:56: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:51:56: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:52:05: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:52:05: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:54:25: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:54:26: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 23:54:29: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:54:29: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:55:23: -------- Mapchange to zm_ice_attack --------
+L 05/07/2020 - 23:55:28: -------- Mapchange to zm_fun_world_2 --------
+L 05/07/2020 - 23:55:29: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/zm_vip.txt" line 1)
+L 05/07/2020 - 23:55:30: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:55:30: [admin.amxx] Login: "DeathBlood<1><STEAM_0:0:105811443><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")
+L 05/07/2020 - 23:58:40: [zm_vip.amxx] ML_NOTFOUND: AUTHORISED
+L 05/07/2020 - 23:58:40: [admin.amxx] Login: "DeathBlood<2><STEAM_0:0:921993139><>" became an admin (account "DeathBlood") (access "cdef") (address "46.118.144.114")

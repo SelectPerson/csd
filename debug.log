@@ -118,3 +118,36 @@ Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.
 ----------------------------------------------
 CRASH: Thu May  7 17:00:15 BST 2020
 Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Fri May  8 00:06:50 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Fri May  8 14:42:08 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Fri May  8 14:45:17 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Fri May  8 14:59:35 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Sat May  9 10:07:44 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Sat May  9 10:09:14 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Sat May  9 10:11:59 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Sat May  9 10:19:14 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Sun May 10 08:53:46 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27015
+----------------------------------------------
+CRASH: Sun May 10 08:53:46 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
+----------------------------------------------
+CRASH: Sun May 10 08:59:23 BST 2020
+Start Line: ./hlds_linux -game cstrike +map zm_fun_world_2 +maxplayers 32 +ip 0.0.0.0 +port 27027
